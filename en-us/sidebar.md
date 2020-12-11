@@ -1,4 +1,4 @@
 - Intro
-    - [About Huobi Eco Chain](en-us/readme.md)
+    - [About Heco](en-us/readme.md)
 - Testnet
     - [Testnet Info](en-us/testnet.md)
