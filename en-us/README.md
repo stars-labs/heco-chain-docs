@@ -1,10 +1,10 @@
-Welcome Huobi Eco Chain Site。
+Welcome Huobi Eco Chain Docs Site。
 
-resources list：
+Resources list：
 
-### [testnet info](en-us/testnet.md)
+### [Testnet Info](en-us/testnet.md)
 
-### tech support and hlep
+### Tech Support And Help
 
 find us via suppport emmail, or social media.
 <DevContacts@huobi.com>

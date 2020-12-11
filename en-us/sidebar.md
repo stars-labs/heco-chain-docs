@@ -1,4 +1,4 @@
 - Intro
-    - [About Heco](en-us/readme.md)
+    - [About Heco](en-us/README.md)
 - Testnet
     - [Testnet Info](en-us/testnet.md)
