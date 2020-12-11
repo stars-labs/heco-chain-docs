@@ -1,4 +1,6 @@
 - 介绍
-    - [关于 Huobi Eco Chain](/intro.md)
+    - [关于Heco](/intro.md)
 - 测试网
     - [测试网信息介绍](/testnet.md)
+- 资产跨链
+    - [资产跨链](/bridge.md)

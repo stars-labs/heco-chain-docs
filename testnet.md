@@ -1,15 +1,15 @@
 # 测试网信息
 
-## chainid
+### chainid
 ```
 256
 ```
-## rpc
+### rpc
 ```
 https://http-testnet.hecochain.com
 wss://ws-testnet.hecochain.com
 ```
-## 浏览器
+### 浏览器
 ```
 https://scan-testnet.hecochain.com
 ```
