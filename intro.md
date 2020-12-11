@@ -6,10 +6,10 @@
 
 ### [测试网信息](/testnet.md)
 
-### [faq](/faq.md)
+### [FAQ](/faq.md)
 
 ### 如何获取技术支持和帮助
 
 通过开发者支持邮箱、官网社交媒体入口都可以联系到我们。
 
-DevContacts@huobi.com
+<DevContacts@huobi.com>

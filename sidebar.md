@@ -4,3 +4,5 @@
     - [测试网信息介绍](/testnet.md)
 - 资产跨链
     - [资产跨链](/bridge.md)
+- FAQ
+    - [FAQ](/faq.md)
