@@ -13,3 +13,6 @@ wss://ws-testnet.hecochain.com
 ```
 https://scan-testnet.hecochain.com
 ```
+
+### 测试币水龙头
+https://scan-testnet.hecochain.com/faucet

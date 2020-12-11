@@ -13,3 +13,9 @@ wss://ws-testnet.hecochain.com
 ```
 https://scan-testnet.hecochain.com
 ```
+
+## faucet
+
+```
+https://scan-testnet.hecochain.com/faucet
+```
