@@ -2,7 +2,11 @@
     - [关于Heco](/intro.md)
 - 测试网
     - [测试网信息介绍](/testnet.md)
+- 钱包
+    - [钱包](/wallet.md)
 - 资产跨链
     - [资产跨链](/bridge.md)
+- 公告
+    - [公告](/notice.md)
 - FAQ
     - [FAQ](/faq.md)
