@@ -2,3 +2,7 @@
     - [About Heco](en-us/README.md)
 - Testnet
     - [Testnet Info](en-us/testnet.md)
+- Wallet
+    - [Wallet](en-us/wallet.md)
+- Notice
+    - [Notice](en-us/notice.md)
