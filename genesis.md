@@ -1,7 +1,7 @@
 # 创世文件
 `HECO`链的主链和测试链创世信息，都已通过硬编码的形式，内置在了代码内，对应的创世文件如下，以供验证。
 
-## 名词解释
+## 名词说明
 - chainId 链的唯一性标识；
 - `homesteadBlock` `eip150Block` `eip150Hash` `eip155Block` `eip158Block` `byzantiumBlock` `constantinopleBlock` `petersburgBlock` `istanbulBlock` `muirGlacierBlock` 硬分叉高度配置；
 - `congress` 共识参数配置。 `period`为出块间隔，`epoch`为一个周期设定，单位是`block`，每个`epoch`结束的时候，会对验证人进行相应调整；
