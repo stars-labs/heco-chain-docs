@@ -1,1 +1,1 @@
-# Huobi Echo Chain Versions
+# Huobi Eco Chain Versions
