@@ -6,7 +6,15 @@
     - [钱包](/wallet.md)
 - 资产跨链
     - [资产跨链](/bridge.md)
+- [共识](/consensus.md)
+- [创世文件](/genesis.md)
 - 公告
     - [公告](/notice.md)
+- 开发者文档
+    - [编译和运行](/dev/install.md)
+    - [链上交互](/dev/sdk.md)
+    - [合约操作](/dev/contract.md)
+    - [私链搭建](/dev/private_chain.md)
+    - [元交易](/dev/meta_tx.md)
 - FAQ
     - [FAQ](/faq.md)
