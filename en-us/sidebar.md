@@ -1,5 +1,5 @@
 - Intro
-    - [About Heco](en-us/README.md)
+    - [About Heco](en-us/intro.md)
 - Testnet
     - [Testnet Info](en-us/testnet.md)
 - Wallet
