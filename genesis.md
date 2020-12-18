@@ -1,6 +1,10 @@
 # 创世文件
 `HECO`链的主链和测试链创世信息，都已通过硬编码的形式，内置在了代码内，对应的创世文件如下，以供验证。
 
+系统合约代码：
+
+https://github.com/HuobiGroup/huobi-eco-contracts
+
 ## 名词说明
 - chainId 链的唯一性标识；
 - `homesteadBlock` `eip150Block` `eip150Hash` `eip155Block` `eip158Block` `byzantiumBlock` `constantinopleBlock` `petersburgBlock` `istanbulBlock` `muirGlacierBlock` 硬分叉高度配置；
@@ -9,6 +13,8 @@
 - `extraData` 设置了初始的验证人群组；
 - `alloc` 配置了初始账户信息，可以用来进行资产预分配和系统合约的预初始化；
 ## mainnet
+
+
 ``` JSON
 {
   "config": {
@@ -55,6 +61,21 @@
   "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000"
 }
 ```
+
+其中 alloc 字段中：
+
+```
+0xdaf88b74fca1246c6144bc846aaa3441ed095191 //创世 HT 锁定地址
+
+000000000000000000000000000000000000F000 //validators 合约
+
+000000000000000000000000000000000000F001 //
+
+000000000000000000000000000000000000F002
+
+```
+
+
 ## testnet
 ``` JSON
 {
