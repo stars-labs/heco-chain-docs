@@ -8,6 +8,13 @@ Both the mainnet and testnet genesis information of `HECO` chain have been hardc
 - `number` `gasUsed` `parentHash` `nonce` `timestamp` `extraData` `gasLimit` `difficulty` are all parameters for genesis block.
 - `extraData` The initial validators is set up here.
 - `alloc` Configured initial account information that can be used for asset pre-allocation and pre-initialization of system contracts.
+    - 0xdaf88b74fca1246c6144bc846aaa3441ed095191 //Genesis account for HT
+    - 000000000000000000000000000000000000F000 //validators contract address 
+    - 000000000000000000000000000000000000F001 // punish contract address
+    - 000000000000000000000000000000000000F002 // proposal contract address
+
+  System contract repo: [huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+
 ## mainnet
 ``` JSON
 {

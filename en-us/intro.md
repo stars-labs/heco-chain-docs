@@ -11,7 +11,7 @@ Huobi ECO Chain (Heco) is a decentralized, high-efficiency and energy-saving pub
 To help developers’ evolvement at every stage 
 
 ## Vision
-Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
+Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
 ## Heco’s Performance
 - TPS: 500+

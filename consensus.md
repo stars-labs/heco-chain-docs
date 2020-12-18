@@ -13,6 +13,8 @@ HPoS是PoA和Pos的结合体。想要成为验证人，需要先提交提案，�
 - epoch。以区块为单位的时间间隔，目前`Heco`上 1epoch = 200block，每个epoch结束的时候，区块链会与系统合约交互，进行活跃验证人更新；
 
 ## 系统合约
+[huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+
 目前验证人的管理，均由系统合约完成，目前的系统合约有：
 - Proposal  负责管理验证人的准入资格，管理验证人提案和投票；
 - Validators 负责对验证人进行排名管理、质押和解质押操作、分发区块奖励等；
