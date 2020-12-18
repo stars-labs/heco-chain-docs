@@ -20,7 +20,7 @@ Heco鼓励社区开发者提供更多去中心化的跨链解决方案。
 
 ## 名词说明
 
-源链：Token 所在的源链（例如 Ethereum）
+源链：Token 所在的链（例如 Ethereum）
 
 Src_Token：源链上的 Token，可能是一个合约，或者是原生 Token
 

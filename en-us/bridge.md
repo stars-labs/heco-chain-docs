@@ -8,7 +8,7 @@ This document describes the option for project parties to map Tokens from the so
 
 > More designs to be announced later
 
-项目 **自行** 维护 Token 在包含 Heco 的多链上的总量平衡，对 Token 的公信力进行背书。
+The project owner **self** maintains the total balance of Token on the multi-chain including Heco, and endorses the credibility of Token.
 
 The main processes include：
 
