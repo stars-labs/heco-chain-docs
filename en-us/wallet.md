@@ -1,4 +1,4 @@
-# 概况
+# Summary
 
 Heco support metamask、huobi wallet app、huobi wallet extension。
 
@@ -7,7 +7,6 @@ Heco support metamask、huobi wallet app、huobi wallet extension。
 add custom network：
 
 * chainid
-
 ```
 256
 ```

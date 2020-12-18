@@ -1,4 +1,4 @@
-Welcome Huobi Eco Chain Docs Site。
+Welcome Huobi ECO Chain Docs Site。
 
 Resources list：
 

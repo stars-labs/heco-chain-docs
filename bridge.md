@@ -18,9 +18,9 @@ Heco鼓励社区开发者提供更多去中心化的跨链解决方案。
 3）Heco 链->源链
 ```
 
-### 名词说明
+## 名词说明
 
-源链：Token 所在的源链（例如 Ethereum）
+源链：Token 所在的链（例如 Ethereum）
 
 Src_Token：源链上的 Token，可能是一个合约，或者是原生 Token
 
@@ -28,7 +28,7 @@ Src_Token：源链上的 Token，可能是一个合约，或者是原生 Token
 
 Heco_Token：Heco 的链上的 Token
 
-### 初始准备
+## 初始准备
 
 1）源链上部署锁仓地址或者合约 Src_Lock_Addr
 
@@ -42,7 +42,7 @@ Heco_Token：Heco 的链上的 Token
 
 > 为了维持公信力，项目需向社区公示以上信息，邀请社区共同监督。并且针对两个链上币的总量进行监控
 
-### 源链->Heco 链
+## 源链->Heco 链
 
 1）源链锁定 Src_Token
 
@@ -52,7 +52,7 @@ Heco_Token：Heco 的链上的 Token
 
 操作执行 mint 操作，赋予 Heco_Lock_Addr 对应量的 Heco_Token
 
-### Heco 链->源链
+## Heco 链->源链
 
 1）Heco 链锁定 Heco_Token
 

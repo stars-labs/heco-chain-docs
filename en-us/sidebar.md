@@ -1,8 +1,14 @@
-- Intro
-    - [About Heco](en-us/intro.md)
-- Testnet
-    - [Testnet Info](en-us/testnet.md)
-- Wallet
-    - [Wallet](en-us/wallet.md)
+- [About Heco](en-us/intro.md)
+- [Wallet](en-us/wallet.md)
+- [Asset Bridge](en-us/bridge.md)
+- [Consensus](en-us/consensus.md)
+- [Meta Transaction](en-us/dev/meta_tx.md)
+- [Genesis](en-us/genesis.md)
+- Developers
+    - [Compile and Run](en-us/dev/install.md)
+    - [On-chain Interaction](en-us/dev/sdk.md)
+    - [Contract](en-us/dev/contract.md)
+    - [Private Chain](en-us/dev/private_chain.md)
+    - [Testnet](en-us/testnet.md)
 - Notice
     - [Notice](en-us/notice.md)

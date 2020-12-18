@@ -98,7 +98,7 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 
 ## Current Stage of Heco
-In December 2020, the Huobi ECO chain, Heco officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
+In December 2020, the Huobi Eco chain, Heco officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
 Oracles, Voting tools, Anchor Coins, DEX, Lending, Fnancial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
 
 ## Support Plan of Heco
