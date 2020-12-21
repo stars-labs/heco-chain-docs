@@ -12,6 +12,6 @@
     - [主网信息介绍](/mainnet.md)
     - [测试网信息介绍](/testnet.md)
 - 公告
-    - [公告](/notice.md)
+    - [公告](/Announcement.md)
 - FAQ
     - [FAQ](/faq.md)
