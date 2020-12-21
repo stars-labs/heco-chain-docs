@@ -104,11 +104,11 @@ HuobiGlobal将大力支持火币生态链Heco的发展
 
 
 ## 在社交媒体上与我们互动
-- Facebook：Huobi Eco Chain
-- Twitter：Huobi_EcoChain
-- Telegram： HuobiEcoChain
+- Facebook：Huobi ECO Chain
+- Twitter：HuobiECOChain
+- Telegram： HuobiECOChain
 - 微博：火币生态链Heco
-- 公众号：Huobi Eco Heco
+- 公众号：Huobi ECO Heco
 
 
 ## 风险提示
