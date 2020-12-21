@@ -6,8 +6,8 @@
 ```
 ## rpc
 ```
-https://http-mainnet.huobichain.com
-wss://ws-mainnet.huobichain.com
+https://http-mainnet.hecochain.com
+wss://ws-mainnet.hecochain.com
 ```
 ## 浏览器
 ```
