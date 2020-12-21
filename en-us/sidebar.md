@@ -11,5 +11,5 @@
     - [Private Chain](en-us/dev/private_chain.md)
     - [Mainnet](en-us/mainnet.md)
     - [Testnet](en-us/testnet.md)
-- Notice
-    - [Notice](en-us/notice.md)
+- Announcement
+    - [Announcement](en-us/Announcement.md)
