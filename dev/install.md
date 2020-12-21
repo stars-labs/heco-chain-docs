@@ -3,7 +3,7 @@
 ## 源码下载
 通过`git`下载源码
 ```
-    git clone https://github.com/HuobiGroup/hecochain.git
+    git clone https://github.com/HuobiGroup/huobi-eco-chain.git
 ```
 ## 安装Golang
 参考 [Go Download and install](https://golang.org/doc/install)

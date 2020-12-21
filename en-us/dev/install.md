@@ -3,7 +3,7 @@
 ## Download
 Download source code via `git`
 ```
-    git clone https://github.com/HuobiGroup/hecochain.git
+    git clone https://github.com/HuobiGroup/huobi-eco-chain.git
 ```
 ## Install Golang
 Reference: [Go Download and install](https://golang.org/doc/install)
