@@ -119,11 +119,11 @@ Huobi Global will strongly support the development of Heco ecosystem:
 
 
 ## Interact with Us on Social Media
-- Facebook：Huobi Eco Chain
-- Twitter：Huobi_EcoChain
-- Telegram： HuobiEcoChain
+- Facebook：Huobi ECO Chain
+- Twitter：HuobiECOChain
+- Telegram： HuobiECOChain
 - Weibo：火币生态链Heco
-- Wechat Offical Account：Huobi Eco Heco
+- Wechat Offical Account：Huobi ECO Heco
 
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of Heco for free, and there is no charging scenario.
