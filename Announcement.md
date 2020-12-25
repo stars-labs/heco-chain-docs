@@ -54,7 +54,7 @@ Heco具备的元交易功能可辅助开发者进行更好的链上运营，元�
  
 中文报名链接：https://jinshuju.net/f/mkP0ZU 
  
-英文报名链接：https://docs.google.com/forms/d/1btQP4tg_qpjNjrk70uSb-jW2vooOFr2lM3ImGagXaJg/prefill 
+英文报名链接：https://forms.gle/rVYnxdoh7dAc2Cfw5
  
 更多活动详情，登陆Heco官网查看，官网地址：hecochain.com 
  
