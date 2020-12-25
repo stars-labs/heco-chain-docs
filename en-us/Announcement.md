@@ -29,3 +29,50 @@ Risk warning：
 3. Huobi ECO Chain will announce authorization, promotion and other cooperation through the official social platform. Warmly remind developers and users to double check the information to avoid losses.
 
 4. Please identify the official website (hecochain.com ) to avoid private key phishing.
+
+## Huobi ECO Chain " WE MAKE FUTURE "program is open now for registration 
+ 
+Dear users, 
+ 
+Heco is a whole new world, and we warmly welcome global developers to co-start the "Era of Making". Developers can deploy and run DApps on Heco. We will evaluate and award the Top5 projects with the title "Gold Creator" and a package of rewards. 
+ 
+Registration time: 
+17:00 25th Dec. 2020 - 24:00 29th Dec. 2020  
+ 
+Duration: 
+2020年12月30日00:00-2021年1月19日24:00  
+00:00 30th Dec. 2020 - 24:00 19th Jan. 2021 
+ 
+Attention:  
+The daily average on-chain statistics are only valid within 20 days from 00:00 30th Dec. to 24:00 19th Jan.. Please pay attention to the beginning and ending times of your data.  
+ 
+Result release: before 27th Jan. 2021 
+ 
+Scoring rule:  
+Heco Fund will set up an evaluation committee to score the projects by the principle of fairness and justice. The scoring dimensions include three categories: on-chain data, market reputation, and project potential. The Heco Fund will evaluate projects based on various tracks and aspects. 
+ 
+ 
+Awards and benefits: 
+The "Gold Creator" title winners will have the opportunity to obtain at least one of the following benefits: 
+1. Official title of “Gold Creator” 
+2. Recommendation to the Huobi Global listing audit channel 
+3. Investment opportunities from the Heco Fund 
+4. Liquidity support up to 1 million USD 
+5. Heco global marketing resources support 
+ 
+Registration Form in Chinese: https://jinshuju.net/f/mkP0ZU 
+
+Registration Form in English: https://docs.google.com/forms/d/1btQP4tg_qpjNjrk70uSb-jW2vooOFr2lM3ImGagXaJg/prefill 
+ 
+For more details, please visit our website: www.hecochain.com 
+ 
+Risk Warning: 
+1. Heco announces authorization, promotion, and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses. 
+2. All users and developers can participate in the test environment and the Mainnet of Heco for free, and there is no charge. 
+3. All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud. 
+4. The official website is www.hecochain.com. Please be cautious with private key phishing. 
+ 
+Huobi ECO Chain 
+
+25th Dec. 2020 
+
