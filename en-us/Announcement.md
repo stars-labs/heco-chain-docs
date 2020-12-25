@@ -62,7 +62,7 @@ The "Gold Creator" title winners will have the opportunity to obtain at least on
  
 Registration Form in Chinese: https://jinshuju.net/f/mkP0ZU 
 
-Registration Form in English: https://docs.google.com/forms/d/1btQP4tg_qpjNjrk70uSb-jW2vooOFr2lM3ImGagXaJg/prefill 
+Registration Form in English: https://forms.gle/rVYnxdoh7dAc2Cfw5
  
 For more details, please visit our website: www.hecochain.com 
  
