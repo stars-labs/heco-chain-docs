@@ -6,19 +6,22 @@
 
 添加自定义网络：
 
-* chainid
+## 主网
 
 ```
-256
+chainid: 128
+rpc: https://http-mainnet.hecochain.com
+scan: https://scan-mainnet.hecochain.com
 ```
-* rpc
+
+## 测试网
+
 ```
-https://http-testnet.hecochain.com
+chainid: 256
+rpc: https://http-testnet.hecochain.com
+scan: https://scan-testnet.hecochain.com
 ```
-* 浏览器
-```
-https://scan-testnet.hecochain.com
-```
+
 
 # huobi wallet app
 
