@@ -6,17 +6,20 @@ Heco support metamask、huobi wallet app、huobi wallet extension。
 
 add custom network：
 
-* chainid
+## mainnet
+
 ```
-256
+chainid: 128
+rpc: https://http-mainnet.hecochain.com
+scan: https://scan-mainnet.hecochain.com
 ```
-* rpc
+
+## testnet
+
 ```
-https://http-testnet.hecochain.com
-```
-* scan
-```
-https://scan-testnet.hecochain.com
+chainid: 256
+rpc: https://http-testnet.hecochain.com
+scan: https://scan-testnet.hecochain.com
 ```
 
 # huobi wallet app
