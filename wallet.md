@@ -14,6 +14,8 @@ rpc: https://http-mainnet.hecochain.com
 scan: https://scan-mainnet.hecochain.com
 ```
 
+![metamask](./images/metamask2.png)
+
 ## 测试网
 
 ```
