@@ -39,3 +39,6 @@ RPC接口兼容以太坊，可直接使用web3.js，对以太坊开发者完全�
 
 # 介绍下元交易功能？
 源于以太坊的meta-transaction，通过减免手续费，降低用户和开发者的使用门槛。可以根据HT链上持仓等多种方式进行减免。
+
+# 是否支持--pruning 参数
+`--pruning`是 parity 的参数，heco 的 API 遵循 go-ethereum 的风格，可以使用 `--gcmode archive` 来实现相同的功能。

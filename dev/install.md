@@ -20,5 +20,6 @@ make geth
 ## 运行
 通过`./build/bin/geth --help`查看所有的`option`选项，根据情况自行设置相关配置参数。可参考[Command-line Options](https://geth.ethereum.org/docs/interface/command-line-options)
 
+
 ## 网络接入
 程序启动默认接入`mainnet`，如需接入公共测试网，可添加`option` `--testnet`。
