@@ -29,8 +29,12 @@ scan: https://scan-testnet.hecochain.com
 
 # huobi wallet app
 
-https://www.huobiwallet.com/zh/
+https://www.huobiwallet.com/
 
 # huobi wallet extension
 
 > 待公布
+
+# Heco cointtype
+
+https://github.com/satoshilabs/slips/blob/master/slip-0044.md

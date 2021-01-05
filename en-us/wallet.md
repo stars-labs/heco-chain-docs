@@ -33,3 +33,7 @@ https://www.huobiwallet.com/
 # huobi wallet extension
 
 > to release soon
+
+# cointtype for Heco
+
+https://github.com/satoshilabs/slips/blob/master/slip-0044.md
