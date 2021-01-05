@@ -1,6 +1,6 @@
 # 概况
 
-支持metamask浏览器插件连接Heco网络
+支持 metamask、huobi wallet app、huobi wallet 浏览器插件
 
 # metamask
 
