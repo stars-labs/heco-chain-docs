@@ -1,6 +1,6 @@
 # Summary
 
-Heco support metamask、huobi wallet app、huobi wallet extension。
+Heco support metamask、huobi wallet app、huobi wallet extension
 
 # metamask
 
