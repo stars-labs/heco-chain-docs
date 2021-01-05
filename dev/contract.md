@@ -23,7 +23,7 @@
 
 1. 设置网络信息，设置完成后保存。
 
-![avatar](../images/metamask1.jpg)
+![avatar](../images/metamask2_en.png)
 
 2. 返回到`Remix`界面
 + 切换环境

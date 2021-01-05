@@ -4,6 +4,8 @@
 
 # metamask
 
+下载地址：https://metamask.io/
+
 添加自定义网络：
 
 ## 主网

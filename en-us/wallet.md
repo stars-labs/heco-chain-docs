@@ -8,13 +8,15 @@ add custom network：
 
 ## mainnet
 
+download url：https://metamask.io/
+
 ```
 chainid: 128
 rpc: https://http-mainnet.hecochain.com
 scan: https://scan-mainnet.hecochain.com
 ```
 
-![metamask](../images/metamask2.png)
+![metamask](../images/metamask2_en.png)
 
 ## testnet
 
