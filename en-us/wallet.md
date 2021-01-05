@@ -28,7 +28,7 @@ scan: https://scan-testnet.hecochain.com
 
 # huobi wallet app
 
-https://www.huobiwallet.com/zh/
+https://www.huobiwallet.com/
 
 # huobi wallet extension
 
