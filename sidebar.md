@@ -1,4 +1,5 @@
 - [关于Heco](/intro.md)
+- [廉正举报](/Integrity.md)
 - [钱包](/wallet.md)
 - [资产跨链](/bridge.md)
 - [共识](/consensus.md)
