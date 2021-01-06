@@ -1,5 +1,5 @@
 - [About Heco](en-us/intro.md)
-- [Integrity and Compliance](en-us/integrity.md)
+- [Integrity and Compliance](en-us/Integrity.md)
 - [Wallet](en-us/wallet.md)
 - [Asset Bridge](en-us/bridge.md)
 - [Consensus](en-us/consensus.md)
