@@ -9,6 +9,7 @@
     - [On-chain Interaction](en-us/dev/sdk.md)
     - [Contract](en-us/dev/contract.md)
     - [Private Chain](en-us/dev/private_chain.md)
+    - [Graph Node](en-us/dev/graphnode.md)
     - [Mainnet](en-us/mainnet.md)
     - [Testnet](en-us/testnet.md)
 - Announcement

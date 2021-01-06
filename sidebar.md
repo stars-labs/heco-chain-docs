@@ -9,6 +9,7 @@
     - [链上交互](/dev/sdk.md)
     - [合约操作](/dev/contract.md)
     - [私链搭建](/dev/private_chain.md)
+    - [Graph Node](/dev/graphnode.md)
     - [主网信息介绍](/mainnet.md)
     - [测试网信息介绍](/testnet.md)
 - 公告
