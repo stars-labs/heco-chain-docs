@@ -34,7 +34,7 @@ graph-node:
       ethereum: 'mainnet:http://127.0.0.1:8545'  #此处需修改
       RUST_LOG: info
  ```
- > 注意： graph-node连接的节点需要开启`archive`模式（启动节点时，添加flag --gcmode archive），建议各个使用方自行搭建RPC节点。
+ > 注意： graph-node连接的节点需要开启`archive`模式（启动节点时，添加flag --syncmode full --gcmode archive），建议各个使用方自行搭建RPC节点。
 
 ### 编写subgraph
 

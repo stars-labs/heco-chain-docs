@@ -36,7 +36,7 @@ graph-node:
       ethereum: 'mainnet:http://127.0.0.1:8545'  #replaced with heco rpc info
       RUST_LOG: info
  ```
- > Note: The node connected to graph-node needs to be in `archive` mode (add flag --gcmode archive when starting the node), we recommend each user to build their own RPC node.
+ > Note: The node connected to graph-node needs to be in `archive` mode (add flag --syncmode full --gcmode archive when starting the node), we recommend each user to build their own RPC node.
 
 ### Create subgraph
 
