@@ -2,7 +2,7 @@
 
 支持 metamask、huobi wallet app、huobi wallet 浏览器插件
 
-> 注意：体现到钱包之前，请检查兼容性，已知 Ledger 暂未支持
+> 注意：提现到钱包之前，请检查兼容性，已知 Ledger 暂未支持
 
 # metamask
 
