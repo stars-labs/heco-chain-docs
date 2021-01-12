@@ -2,6 +2,8 @@
 
 Heco support metamask、huobi wallet app、huobi wallet extension
 
+> NOTE: Check compitibility before using wallet, Ledger is not supported.
+
 # metamask
 
 add custom network：
@@ -13,7 +15,7 @@ download url：https://metamask.io/
 ```
 chainid: 128
 rpc: https://http-mainnet.hecochain.com
-scan: https://scan-mainnet.hecochain.com
+scan: https://scan.hecochain.com
 ```
 
 ![metamask](../images/metamask2_en.png)

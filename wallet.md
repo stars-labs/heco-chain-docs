@@ -2,6 +2,8 @@
 
 支持 metamask、huobi wallet app、huobi wallet 浏览器插件
 
+> 注意：体现到钱包之前，请检查兼容性，已知 Ledger 暂未支持
+
 # metamask
 
 下载地址：https://metamask.io/
@@ -13,7 +15,7 @@
 ```
 chainid: 128
 rpc: https://http-mainnet.hecochain.com
-scan: https://scan-mainnet.hecochain.com
+scan: https://scan.hecochain.com
 ```
 
 ![metamask](./images/metamask2.png)
