@@ -56,5 +56,25 @@
   <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script>
+    var source = document.documentElement.clientWidth > 768 ? 1 : 4;
+    window.woodpecker = window.woodpecker || {
+      app: 38,
+      source,
+      env: 'prd',
+      modules: {
+        vhash: {
+          type: 'woodpecker'
+        }
+      }
+    };
+    (function() {
+      var bw = document.createElement('script');
+      bw.src = 'https://open.woodpeckerlog.com/static/woodpecker.js';
+      bw.async = true;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(bw, s);
+    })();
+  </script>
 </body>
 </html>
