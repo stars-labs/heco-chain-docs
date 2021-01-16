@@ -5,10 +5,18 @@
 128
 ```
 ## rpc
+
+国内访问：
+```
+https://http-mainnet-node1.hecochain.com
+wss://ws-mainnet-node1.hecochain.com
+```
+
 ```
 https://http-mainnet.hecochain.com
 wss://ws-mainnet.hecochain.com
 ```
+
 ## 浏览器
 ```
 https://scan.hecochain.com

@@ -5,10 +5,18 @@
 128
 ```
 ## rpc
+
 ```
 https://http-mainnet.hecochain.com
 wss://ws-mainnet.hecochain.com
 ```
+
+Visit from China Mainland：
+```
+https://http-mainnet-node1.hecochain.com
+wss://ws-mainnet-node1.hecochain.com
+```
+
 ## explorer
 ```
 https://scan.hecochain.com
