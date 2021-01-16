@@ -19,8 +19,6 @@ https://scan.hecochain.com
 > the following nodes are default config for bootstrap node in code https://github.com/HuobiGroup/huobi-eco-chain/blob/master/params/bootnodes.go
 
 ```
-enode://faebf9293135c943ef8a4d29fe7561115c5cf16f990b1566c10d7e896c7c68f90ea1e60a13f23d81c31608fe929d6cd7564662ac0a99acf97213256f387bb60a@8.210.250.177:32768
-
 enode://7bed18c87054f807bc9096501bc78f737363f357af831791bab07c4fa6c5a1a67cdcf0a097dc2cc918262ef04fb1c05c26026df5c11a6a56666f9b1fb4072210@18.178.30.66:32668
 
 enode://d67251dd3b050e555679a8abdc427a4c78a9bae174f2fd3b9163c364d27b6a69688ee067cd3214e8ceb71e6e602fd812797b085ae37ed3bf93b78e2b77ae3306@18.181.40.7:32668
