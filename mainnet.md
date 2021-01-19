@@ -6,7 +6,14 @@
 ```
 ## rpc
 
-国内访问：
+国内访问1：
+
+```
+https://http-mainnet-node.huobichain.com
+wss://ws-mainnet-node.huobichain.com
+```
+
+国内访问2：
 ```
 https://http-mainnet-node1.hecochain.com
 wss://ws-mainnet-node1.hecochain.com

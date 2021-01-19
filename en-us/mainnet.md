@@ -12,6 +12,12 @@ wss://ws-mainnet.hecochain.com
 ```
 
 Visit from China Mainland：
+
+```
+https://http-mainnet-node.huobichain.com
+wss://ws-mainnet-node.huobichain.com
+```
+
 ```
 https://http-mainnet-node1.hecochain.com
 wss://ws-mainnet-node1.hecochain.com
