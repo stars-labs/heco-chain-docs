@@ -20,7 +20,7 @@ Compile contract
 Deploy contract to blockchain via wallet such as `MetaMask`.
 1. Set network info in `Metamask`.
 
-![avatar](../../images/metamask1.jpg)
+![avatar](../../images/metamask2_en.png)
 
 2. Back to `Remix`.
 + Swich environment

@@ -14,7 +14,7 @@ download url：https://metamask.io/
 
 ```
 chainid: 128
-rpc: https://http-mainnet.hecochain.com
+rpc: https://http-mainnet-node.huobichain.com
 scan: https://scan.hecochain.com
 ```
 
