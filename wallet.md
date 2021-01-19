@@ -18,6 +18,12 @@ rpc: https://http-mainnet.hecochain.com
 scan: https://scan.hecochain.com
 ```
 
+国内访问 rpc 可以选择：
+```
+https://http-mainnet-node.huobichain.com
+https://http-mainnet-node1.hecochain.com
+```
+
 ![metamask](./images/metamask2.png)
 
 ## 测试网
