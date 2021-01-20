@@ -1,5 +1,13 @@
 # The latest Announcement
 
+## Heco Eco Alliance Announces First Exchange Membership List
+
+Heco Eco Alliance officially announced the first list of exchanges. Nine exchanges including BiBox, BiKi, BigONE, BitZ, HBTC, Hoo, LBank, MXC and Jubi joined the Heco Eco Alliance as partners to support the Heco Eco Alliance project.
+
+The Heco Eco Alliance was founded on January 14, 2021 by Heco, the Firecurrency Eco-chain. The Heco Eco-Alliance aims to combine top investment institutions, trading platforms, wallets, media and other projects in the industry to enable Heco eco-projects, support high-quality developers around the world and jointly promote Heco eco-prosperity and development.
+
+The Heco Eco Alliance will support high-quality developers with resources such as investment, trading, fluidity, and brand to help them grow quickly.
+
 ## Huobi DeFi Labs set up Heco Fund to accelerate the development of projects on the Huobi ECO Chain
 
 On December 21, Huobi Defi Labs announced the launch of the "Heco Fund". It is designated to support Huobi Open Platform as well as the projects on the Huobi ECO Chain, so as to promote the prosperity of Huobi Ecosystem. The recent focus of the Heco Fund is to discover and support high-potential projects which include DEX, Lending, Oracle, Cross-chain solution, Stable currency exchange, Insurance, etc.
