@@ -13,5 +13,6 @@
     - [Graph Node](en-us/dev/graphnode.md)
     - [Mainnet](en-us/mainnet.md)
     - [Testnet](en-us/testnet.md)
+    - [DApp-Governance](/dev/dapp-gov.md)
 - Announcement
     - [Announcement](en-us/Announcement.md)

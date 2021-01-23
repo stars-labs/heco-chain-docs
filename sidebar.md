@@ -13,6 +13,7 @@
     - [Graph Node](/dev/graphnode.md)
     - [主网信息介绍](/mainnet.md)
     - [测试网信息介绍](/testnet.md)
+    - [DApp治理](/dev/dapp-gov.md)
 - 公告
     - [公告](/Announcement.md)
 - FAQ
