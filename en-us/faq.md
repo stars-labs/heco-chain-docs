@@ -1,4 +1,4 @@
-# Metamask lagging 
+# Metamask Lagging 
 
 Slow response when inputting tansfer amount, fetching gasprice, etc. It is a chrome's known issue according to the following issue：
 
