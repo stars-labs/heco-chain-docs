@@ -43,7 +43,7 @@ RPC接口兼容以太坊，可直接使用web3.js，对以太坊开发者完全�
 # 是否支持--pruning 参数
 `--pruning`是 parity 的参数，heco 的 API 遵循 go-ethereum 的风格，可以使用 `--gcmode archive` 来实现相同的功能。
 
-# metamask 卡顿
+# Metamask 卡顿
 
 多发与 mac chrome 浏览器下，
 
