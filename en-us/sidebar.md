@@ -17,3 +17,5 @@
     - [DApp-Governance](/dev/dapp-gov.md)
 - Announcement
     - [Announcement](en-us/Announcement.md)
+- FAQ
+    - [FAQ](en-us/faq.md)
