@@ -61,7 +61,7 @@ https://meta-mainnet.hecochain.com
 > POST /meta/tx
 ```JSON
 {
-    “0xdddd” // 签名好的交易的 hex raw data
+    "raw": "0xdddd" // 签名好的交易的 hex raw data
 }
 ```
 Response
