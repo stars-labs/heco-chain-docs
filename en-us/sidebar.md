@@ -15,6 +15,7 @@
     - [Testnet](en-us/testnet.md)
     - [DApp-Governance](/dev/dapp-gov.md)
     - [HRC20](en-us/dev/hrc20.md)
+    - [WalletConnect](en-us/dev/wallet-connect.md)
 - Announcement
     - [Announcement](en-us/Announcement.md)
 - FAQ
