@@ -5,7 +5,6 @@
 - [共识](/consensus.md)
 - [元交易](/dev/meta_tx.md)
 - [创世文件](/genesis.md)
-- [捐赠](/donate.md)
 - 开发者文档
     - [编译和运行](/dev/install.md)
     - [链上交互](/dev/sdk.md)

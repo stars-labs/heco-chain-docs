@@ -5,7 +5,6 @@
 - [Consensus](en-us/consensus.md)
 - [Meta Transaction](en-us/dev/meta_tx.md)
 - [Genesis](en-us/genesis.md)
-- [Donate](en-us/donate.md)
 - Developers
     - [Compile and Run](en-us/dev/install.md)
     - [On-chain Interaction](en-us/dev/sdk.md)

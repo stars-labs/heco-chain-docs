@@ -31,6 +31,8 @@ A meta-transaction is essentially an operation that fulfils a fee payment in pro
 ## Official Meta Transaction Service
 Huobi officially provides a meta transaction service with a fee subsidy based on the caller's `HT` holdings.
 
+![avatar](../../images/grade-en.png)
+
 ### API
 
 https://meta-mainnet.hecochain.com

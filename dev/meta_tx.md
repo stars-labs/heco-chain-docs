@@ -31,6 +31,8 @@
 ## 官方元交易服务
 火币官方提供元交易服务，根据调用者的`HT`持仓量，进行手续费补贴。
 
+![avatar](../images/grade-cn.png)
+
 ### API
 
 https://meta-mainnet.hecochain.com
