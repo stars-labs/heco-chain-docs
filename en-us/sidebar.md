@@ -15,6 +15,7 @@
     - [Mainnet](en-us/mainnet.md)
     - [Testnet](en-us/testnet.md)
     - [DApp-Governance](/dev/dapp-gov.md)
+    - [HRC20](en-us/dev/hrc20.md)
 - Announcement
     - [Announcement](en-us/Announcement.md)
 - FAQ

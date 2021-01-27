@@ -15,6 +15,7 @@
     - [主网信息介绍](/mainnet.md)
     - [测试网信息介绍](/testnet.md)
     - [DApp治理](/dev/dapp-gov.md)
+    - [HRC20](/dev/hrc20.md)
 - 公告
     - [公告](/Announcement.md)
 - FAQ
