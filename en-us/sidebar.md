@@ -21,4 +21,4 @@
 - FAQ
     - [FAQ](en-us/faq.md)
 - Disclaimer
-    - [Disclaimer](/disclaimer.md)
+    - [Disclaimer](en-us/disclaimer.md)
