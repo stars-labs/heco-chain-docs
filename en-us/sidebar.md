@@ -20,3 +20,5 @@
     - [Announcement](en-us/Announcement.md)
 - FAQ
     - [FAQ](en-us/faq.md)
+- Disclaimer
+    - [Disclaimer](/disclaimer.md)
