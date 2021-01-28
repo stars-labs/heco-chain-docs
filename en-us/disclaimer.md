@@ -16,8 +16,6 @@ Huobi ECO Chain （Heco） (hereinafter referred to as "Heco" or "we") is a dece
 
 6. Heco will not share your personal information with any third-party DAPP unless you have your explicit consent. After obtaining your explicit consent, all legal responsibilities and disputes arising from the third-party DAPP obtaining your personal information shall still be borne by you and resolved with the third-party DAPP;
 
-7.Heco has no right to provide you with any third-party DAPP developer's personal information, unless obtaining the other party's consent or the request of the relevant department, we will try our best to assist but cannot guarantee that we can effectively obtain the other party's information in a timely manner.
-
-8.
+7. Heco has no right to provide you with any third-party DAPP developer's personal information, unless obtaining the other party's consent or the request of the relevant department, we will try our best to assist but cannot guarantee that we can effectively obtain the other party's information in a timely manner.
 
 Finally, we remind you again: we do not recommend, suggest, or guide you to use any third-party DAPP services.
