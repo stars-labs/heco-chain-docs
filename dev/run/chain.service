@@ -1,0 +1,13 @@
+[Unit]
+Description=huobi smart chain service
+
+[Service]
+Type=simple
+ExecStart=/bin/sh /data/heco/run.sh
+
+Restart=on-failure
+RestartSec=5s
+
+LimitNOFILE=65536
+
+[Install]

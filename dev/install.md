@@ -20,6 +20,47 @@ make geth
 ## 运行
 通过`./build/bin/geth --help`查看所有的`option`选项，根据情况自行设置相关配置参数。可参考[Command-line Options](https://geth.ethereum.org/docs/interface/command-line-options)
 
+## 部署设置
+
+给出了一组使用 systemd 进行服务管理的配置。
+
+可以参考：
+
+* 链节点配置
+[config.toml](run/config.toml)
+
+默认使用了快速同步，如果需要使用 full，可以去掉：
+
+```
+SyncMode = "fast"
+```
+这一行；
+
+* 启动脚本
+[run.sh](run/run.sh)
+
+如果需要启用archive 类型，需要加入：
+
+```
+--syncmode full \
+--gcmode archive \
+```
+
+即：
+
+```
+#!/usr/bin/env bash
+/data/heco/geth-linux-amd64 \
+--config /data/heco/config.toml  \
+--logpath /data/heco/logs \
+--syncmode full \
+--gcmode archive \
+--verbosity 3  >> /data/heco/logs/systemd_chain_console.out 2>&1
+```
+
+* systemd 脚本
+[chain.service](run/chain.service)
+
 
 ## 网络接入
 程序启动默认接入`mainnet`，如需接入公共测试网，可添加`option` `--testnet`。
