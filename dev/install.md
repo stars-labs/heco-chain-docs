@@ -27,7 +27,7 @@ make geth
 可以参考：
 
 * 链节点配置
-[config.toml](../common/run/config.toml)
+[config.toml](/common/run/config.toml)
 
 默认使用了快速同步，如果需要使用 full，可以去掉：
 
@@ -37,7 +37,7 @@ SyncMode = "fast"
 这一行；
 
 * 启动脚本
-[run.sh](../common/run/run.sh)
+[run.sh](/common/run/run.sh)
 
 如果需要启用archive 类型，需要加入：
 
@@ -59,7 +59,7 @@ SyncMode = "fast"
 ```
 
 * systemd 脚本
-[chain.service](../common/run/chain.service)
+[chain.service](/common/run/chain.service)
 
 
 ## 网络接入

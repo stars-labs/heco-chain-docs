@@ -27,7 +27,7 @@ introduce systemd management configs。
 
 
 * chain node config
-[config.toml](../../common/run/config.toml)
+[config.toml](/common/run/config.toml)
 
 use fast sync in the config, if full needed, remove this line:
 ```
@@ -35,7 +35,7 @@ SyncMode = "fast"
 ```
 
 * run code
-[run.sh](../../common/run/run.sh)
+[run.sh](/common/run/run.sh)
 
 if you need to use it as archive node, add：
 
@@ -57,7 +57,7 @@ so：
 ```
 
 * systemd scrips
-[chain.service](../../common/run/chain.service)
+[chain.service](/common/run/chain.service)
 
 
 
