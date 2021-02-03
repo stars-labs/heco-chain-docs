@@ -1,9 +1,5 @@
 # 交易处于pending 中的解决办法
 
-通用处理方案：
-
-第一种方法 : 可以加速交易,建议将gaslimt和gasPrice加倍
-
 nonce 不正确
 
 - 尝试填写正确的交易nonce。
