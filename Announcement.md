@@ -1,5 +1,13 @@
 # 最新公告
 
+## 关于 RPC 服务器的更新
+
+尊敬的Heco用户您好，为了保证您快速访问Heco 网络，请根据所处地域切换到对应的RPC服务器：
+
+国内访问： https://http-mainnet-node.huobichain.com
+
+国外访问：https://http-mainnet.hecochain.com
+
 ## Heco生态联盟公布首批交易所成员名单
 
 Heco生态联盟正式公布首批交易所名单，BiBox、BiKi、BigONE、BitZ、霍比特HBTC、Hoo、LBank、MXC和Jubi等九家交易所加入Heco生态联盟，成为Heco生态联盟伙伴，为Heco生态项目助力。

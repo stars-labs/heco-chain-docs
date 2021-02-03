@@ -1,5 +1,13 @@
 # The latest Announcement
 
+## RPC servers update
+
+Dear Heco users, for your better experience, please choose RPC server according your location:
+
+Global: https://http-mainnet-node.huobichain.com
+
+China mainland: https://http-mainnet.hecochain.com
+
 ## Heco Eco Alliance Announces First Exchange Membership List
 
 Heco Eco Alliance officially announced the first list of exchanges. Nine exchanges including BiBox, BiKi, BigONE, BitZ, HBTC, Hoo, LBank, MXC and Jubi joined the Heco Eco Alliance as partners to support the Heco Eco Alliance project.
