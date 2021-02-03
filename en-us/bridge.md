@@ -6,7 +6,7 @@ Heco encourages community developers to provide more decentralized cross-chain s
 
 This document describes the option for project parties to map Tokens from the source chain to Heco on their own.
 
-[heco-brige](./hecobridge.md)
+> [heco-brige ref here](./hecobridge.md)
 
 The project owner **self** maintains the total balance of Token on the multi-chain including Heco, and endorses the credibility of Token.
 
