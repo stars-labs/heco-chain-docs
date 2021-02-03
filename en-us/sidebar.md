@@ -6,6 +6,7 @@
 - [Consensus](en-us/consensus.md)
 - [Meta Transaction](en-us/dev/meta_tx.md)
 - [Genesis](en-us/genesis.md)
+- [Pending Tranasction solution](en-us/pending_handle.md)
 - Developers
     - [Compile and Run](en-us/dev/install.md)
     - [On-chain Interaction](en-us/dev/sdk.md)
