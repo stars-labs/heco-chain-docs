@@ -17,6 +17,7 @@
     - [DApp治理](/dev/dapp-gov.md)
     - [HRC20](/dev/hrc20.md)
     - [WalletConnect](/dev/wallet-connect.md)
+    - [交易池问题]](/dev/txpool.md)
 - 公告
     - [公告](/Announcement.md)
 - FAQ

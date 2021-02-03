@@ -17,6 +17,7 @@
     - [DApp-Governance](/dev/dapp-gov.md)
     - [HRC20](en-us/dev/hrc20.md)
     - [WalletConnect](en-us/dev/wallet-connect.md)
+    - [Txpool]](en-us/dev/txpool.md)
 - Announcement
     - [Announcement](en-us/Announcement.md)
 - FAQ
