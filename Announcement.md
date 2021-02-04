@@ -1,5 +1,41 @@
 # 最新公告
 
+## Heco嗨够红包周活动公告
+
+尊敬的用户，
+
+新春将近，Heco官方联合链上12家优质项目共同发起新春150万福利活动《Heco 嗨够红包周》，感谢您对Heco及Heco生态的大力支持。
+
+活动时间：
+2021.2.4-2021.2.9
+
+活动规则：
+活动期间，用户可参与Heco指定项目方发起的空投活动，根据各项目发布的规则领取 “嗨够红包”。空投共计12场，每天由2-3个项目方各自发起一场，空投活动之间相互独立，用户均可参与。Heco用户可通过DeFibox.com查看《Heco 嗨够红包周》攻略地图，获取每场空投信息和规则。
+
+空投项目及时间：
+2月4日 LAVAswap
+2月5日 BeeSwap、Channels
+2月6日 BasisX、Lendhub
+2月7日 FilDA、NFT-HERO
+2月8日 EarnDeFi、MDEX
+2月9日 CROSS、BAGS、 DMEX
+
+合作平台： 
+DeFibox.com
+
+合作钱包： 
+Huobi Wallet、CodeBank、BitKeep、TokenPocket、Bitpie、ONTO、Hyperpay、MateMask、 Dappbirds 
+
+合作媒体： 
+金色财经、Winkrypto、火星财经、币世界、COINTELEGRAPH、KingData
+
+活动须知：
+1. 12场空投活动可同时参与；
+2. 空投将于地址审核合格后由项目统一发放，请您耐心等待；
+3. 请严格按照项目空投规则进行活动，用户若出现影响活动正常运行的违规操作，Heco将立即取消参与资格，无法获得任何空投；
+4. 单场空投活动最终解释权归单个项目方所有；
+5. Heco为本次活动的组织者，但并不构成任何投资建议，请用户谨慎参与。
+
 ## 关于 RPC 服务器的更新
 
 尊敬的Heco用户您好，为了保证您快速访问Heco 网络，请根据所处地域切换到对应的RPC服务器：
