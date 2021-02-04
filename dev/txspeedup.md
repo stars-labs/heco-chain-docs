@@ -1,5 +1,7 @@
-# 挖矿交易加速
+# 挖矿交易加速[图文]
 文档描述通过切换小狐狸钱包（metamask）网络节点的方式来进行进行挖矿交易加速的方法。
+
+根据官方[公告](https://docs.hecochain.com/#/Announcement?id=关于-rpc-服务器的更新)，用户可以根据自己所处的地域来选取不同的挖矿服务器。
 
 步骤为：
 
@@ -9,7 +11,7 @@
 更换RPC节点地址为：https://http-mainnet-node.huobichain.com
 ```
 
-# 加速方法[图文版]
+# 加速方法
 
 ## 第一步 点击账号
 
