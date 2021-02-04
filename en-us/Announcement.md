@@ -1,5 +1,40 @@
 # The latest Announcement
 
+## Heco Airdrop Week
+
+Dear Users, 
+
+Chinese New Year is coming, and Heco jointly launched New Year 1.5 million campaign "Heco Airdrop Week" with 12 top projects on Heco chain. Thank you for your strong support for Heco and Heco Ecosystem.
+
+Activity time:04-09/02/2021
+
+Activity rules：
+During this activity, users can participate in airdrops initiated by Heco projects and get rewards according to the rules issued by each project. A total of 12 airdrops initiated by 2-3 projects a day. Airdrops are independent of each other, users can participate in any of them. Users can view 'Heco Airdrop week' schedule and learn more about airdrops and rules on DeFibox.com.
+
+Airdrop projects and time:
+February 4 - LAVAswap
+February 5 - BeeSwap, Channels
+February 6 - BasisX, Lendhub
+February 7 - FilDA, NFT-HERO
+February 8 - EarnDeFi, MDEX
+February 9 - CROSS, BAGS, DMEX
+
+Partner platform:
+DeFibox.com
+
+Partner walelts:
+Huobi Wallet, CodeBank, BitKeep, TokenPocket, Bitpie, ONTO, Hyperpay, MateMask, Dappbirds 
+
+Partner media:
+金色财经、Winkrypto、火星财经、币世界、COINTELEGRAPH、KingData
+
+Activity notice:
+1. You can participate in 12 airdrops at the same time.
+2. Airdrop rewards will be distributed by the project after the address is approved. It takes time, please wait.
+3. Please strictly follow the airdrop rules. If the user commits any illegal operation that affects the normal operation of the activity, Heco will immediately disqualify this user from participating and he will not be able to receive any airdrop.
+4. The final interpretation right of a single airdrop belongs to the relevant project. 
+5. Heco is this activity organizer, but does not provide with any investment advice. Users are requested to participate with caution.
+
 ## RPC servers update
 
 Dear Heco users, for your better experience, please choose RPC server according your location:
