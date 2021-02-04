@@ -13,11 +13,17 @@
 活动期间，用户可参与Heco指定项目方发起的空投活动，根据各项目发布的规则领取 “嗨够红包”。空投共计12场，每天由2-3个项目方各自发起一场，空投活动之间相互独立，用户均可参与。Heco用户可通过DeFibox.com查看《Heco 嗨够红包周》攻略地图，获取每场空投信息和规则。
 
 空投项目及时间：
+
 2月4日 LAVAswap
+
 2月5日 BeeSwap、Channels
+
 2月6日 BasisX、Lendhub
+
 2月7日 FilDA、NFT-HERO
+
 2月8日 EarnDeFi、MDEX
+
 2月9日 CROSS、BAGS、 DMEX
 
 合作平台： 
