@@ -12,11 +12,17 @@ Activity rules：
 During this activity, users can participate in airdrops initiated by Heco projects and get rewards according to the rules issued by each project. A total of 12 airdrops initiated by 2-3 projects a day. Airdrops are independent of each other, users can participate in any of them. Users can view 'Heco Airdrop week' schedule and learn more about airdrops and rules on DeFibox.com.
 
 Airdrop projects and time:
+
 February 4 - LAVAswap
+
 February 5 - BeeSwap, Channels
+
 February 6 - BasisX, Lendhub
+
 February 7 - FilDA, NFT-HERO
+
 February 8 - EarnDeFi, MDEX
+
 February 9 - CROSS, BAGS, DMEX
 
 Partner platform:
