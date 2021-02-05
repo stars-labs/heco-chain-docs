@@ -29,7 +29,7 @@ Partner platform:
 DeFibox.com
 
 Partner walelts:
-Huobi Wallet, CodeBank, BitKeep, TokenPocket, Bitpie, ONTO, Hyperpay, MateMask, Dappbirds 
+Huobi Wallet, CodeBank, BitKeep, TokenPocket, Bitpie, ONTO, Hyperpay, MetaMask, Dappbirds 
 
 Partner media:
 金色财经、Winkrypto、火星财经、币世界、COINTELEGRAPH、KingData
