@@ -30,7 +30,7 @@
 DeFibox.com
 
 合作钱包： 
-Huobi Wallet、CodeBank、BitKeep、TokenPocket、Bitpie、ONTO、Hyperpay、MateMask、 Dappbirds 
+Huobi Wallet、CodeBank、BitKeep、TokenPocket、Bitpie、ONTO、Hyperpay、MetaMask、 Dappbirds 
 
 合作媒体： 
 金色财经、Winkrypto、火星财经、币世界、COINTELEGRAPH、KingData
