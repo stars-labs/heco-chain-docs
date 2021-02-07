@@ -1,5 +1,13 @@
 # 最新公告
 
+## 火币生态链Heco即将上线19个锚定资产
+
+尊敬的用户：
+
+火币生态链Heco即将上线AAVE、ARPA、BAL、BETH、CNNS、DAI、GOF、HBC、LAMB、LINK、LRC、PAX、SKM、SNX、SUSHI、SWFTC、UNI、USDC、YFI的HECO网络锚定Token，具体开通时间请等待官方公告。
+
+Heco团队
+
 ## Heco嗨够红包周活动
 
 尊敬的用户，
