@@ -7,7 +7,8 @@
 - [元交易](/dev/meta_tx.md)
 - [创世文件](/genesis.md)
 - 开发者文档
-    - [编译和运行](/dev/install.md)
+    - [编译和安装](/dev/install.md)
+    - [部署脚本](/dev/deploy.md)
     - [链上交互](/dev/sdk.md)
     - [合约操作](/dev/contract.md)
     - [私链搭建](/dev/private_chain.md)
