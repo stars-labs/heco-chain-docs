@@ -1,6 +1,6 @@
 # The latest Announcement
 
-## Announcement of Heco that 19 Anchor Tokens to be Launched in Huobi Ecological Chain HECO
+## 19 Anchor Tokens to be Launched in Huobi Ecological Chain HECO
 
 Dear users: 
 
