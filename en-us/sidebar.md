@@ -8,6 +8,7 @@
 - [Genesis](en-us/genesis.md)
 - Developers
     - [Compile and Run](en-us/dev/install.md)
+    - [Deployment](en-us/dev/deploy.md)
     - [On-chain Interaction](en-us/dev/sdk.md)
     - [Contract](en-us/dev/contract.md)
     - [Private Chain](en-us/dev/private_chain.md)
