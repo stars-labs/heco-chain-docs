@@ -1,5 +1,13 @@
 # The latest Announcement
 
+## Announcement of Heco that 19 Anchor Tokens to be Launched in Huobi Ecological Chain HECO
+
+Dear users: 
+
+Anchor tokens of AAVE、ARPA、BAL、BETH、CNNS、DAI、GOF、HBC、LAMB、LINK、LRC、PAX、SKM、SNX、SUSHI、SWFTC、UNI、USDC and YFI will be launched on Heco soon. Please wait for the official announcement of the specific opening time.
+
+Heco team
+
 ## Heco Airdrop Week
 
 Dear Users, 
