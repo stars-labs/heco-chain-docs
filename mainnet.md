@@ -21,6 +21,10 @@ wss://ws-mainnet.hecochain.com
 
 ## 浏览器
 ```
+v1:
+https://hecoinfo.com
+
+v0:
 https://scan.hecochain.com
 ```
 
