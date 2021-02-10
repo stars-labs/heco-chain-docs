@@ -3,6 +3,11 @@
 
 ![avatar](../images/metatx.jpg)
 
+
+# Java 版本 Demo
+
+https://github.com/HuobiGroup/metatx-Java-demo
+
 ## 元交易构造
 - 获取原始的`rawTransaction`信息；
 - 解析原始交易信息，获取`nonce` `gasprice` `gaslimit` `from address` `to address` `value` `data`；
