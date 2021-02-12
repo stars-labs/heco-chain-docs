@@ -36,7 +36,10 @@ https://github.com/HuobiGroup/metatx-Java-demo
 ## 官方元交易服务
 火币官方提供元交易服务，根据调用者的`HT`持仓量，进行手续费补贴。
 
+交易生效有效期是 1 天（28800 区块）；
+
 ![avatar](../images/grade-cn.png)
+
 
 ### API
 

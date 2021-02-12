@@ -35,6 +35,8 @@ https://github.com/HuobiGroup/metatx-Java-demo
 ## Official Meta Transaction Service
 Huobi officially provides a meta transaction service with a fee subsidy based on the caller's `HT` holdings.
 
+The expiration time for the subsidy is 1 day(28800 blocks)；
+
 ![avatar](../../images/grade-en.png)
 
 ### API
