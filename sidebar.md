@@ -10,6 +10,7 @@
     - [编译和安装](/dev/install.md)
     - [部署脚本](/dev/deploy.md)
     - [链上交互](/dev/sdk.md)
+    - [请求与错信息](/dev/json-rpc.md)
     - [合约操作](/dev/contract.md)
     - [私链搭建](/dev/private_chain.md)
     - [Graph Node](/dev/graphnode.md)
