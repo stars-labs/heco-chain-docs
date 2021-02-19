@@ -5,8 +5,8 @@
 尊敬的用户，
 
 火币生态链Heco与MXC平台已达成深度合作，合作内容与方式如下：
-1. MXC平台通证MX将通过MXC平台充提入口、Huobi Global充提入口直接跨链到Heco，MX将作为DeFi资产，在Heco内打通借贷、流动性挖矿、DEX交易等场景。
 
+1. MXC平台通证MX将通过MXC平台充提入口、Huobi Global充提入口直接跨链到Heco，MX将作为DeFi资产，在Heco内打通借贷、流动性挖矿、DEX交易等场景。
 2.MXC将上线Heco资产专区，共同打造多元化生态应用场景。
 
 Heco团队
