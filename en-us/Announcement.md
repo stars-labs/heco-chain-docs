@@ -1,5 +1,17 @@
 # The latest Announcement
 
+## MX, native token of MXC platform, will be cross-linked into Heco.
+
+Dear users，
+
+Huobi Eco Chain Heco and MXC platform have deepen their cooperation. The content and methods of cooperation are as follows:
+
+1. A native token of MXC platform, MX will be directly connected to Heco as a a cross-chain asset through MXC and Huobi Global platforms deposit and withdrawal functions. MX will be used as a DeFi asset for lending, liquidity mining, DEX transactions and other operations in Heco.
+
+2. MXC will be launched on Heco Asset Zone to jointly create diversified eco application scenarios.
+
+Heco team
+
 ## 19 Anchor Tokens to be Launched in Huobi Ecological Chain HECO
 
 Dear users: 
