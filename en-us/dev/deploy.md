@@ -92,9 +92,13 @@ IdleTimeout = 120000000000
 
 ```
 
-use fast sync in the config, if full needed, remove this line:
+use fast sync in the config, if full needed, change this line
 ```
 SyncMode = "fast"
+```
+to
+```
+SyncMode = "full"
 ```
 
 ## start bash
