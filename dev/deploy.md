@@ -2,6 +2,23 @@
 
 给出了一组使用 systemd 进行服务管理的配置。
 
+## 硬件配置
+
+### 最低
+
+```
+8core
+16g
+ssd iops>5k
+```
+
+### 推荐
+```
+16core
+32g
+ssd iops>5k
+```
+
 ## 链节点配置
 
 * config.toml
