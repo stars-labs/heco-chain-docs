@@ -15,7 +15,7 @@
     - [Graph Node](en-us/dev/graphnode.md)
     - [Mainnet](en-us/mainnet.md)
     - [Testnet](en-us/testnet.md)
-    - [DApp-Governance](/dev/dapp-gov.md)
+    - [DApp-Governance](en-us/dev/dapp-gov.md)
     - [HRC20](en-us/dev/hrc20.md)
     - [WalletConnect](en-us/dev/wallet-connect.md)
     - [Txpool](en-us/dev/txpool.md)
