@@ -99,7 +99,7 @@ SyncMode = "fast"
 ```
 修改为
 ```
-SyncMode = "fast"
+SyncMode = "full"
 ```
 
 ## 启动脚本
