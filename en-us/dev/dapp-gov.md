@@ -4,11 +4,11 @@
 
 https://snapshot.page/#/
 
-create space with metamask, choose heco chain;
+dapp developer: create space with metamask, choose heco chain;
 
-create proposal in space; 
+user: create proposal in space; 
 
-vote for the proposal
+user: vote for the proposal
 
 
 ref:
