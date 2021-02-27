@@ -18,6 +18,7 @@
     - [DApp-Governance](en-us/dev/dapp-gov.md)
     - [HRC20](en-us/dev/hrc20.md)
     - [WalletConnect](en-us/dev/wallet-connect.md)
+    - [gasprice](en-us/dev/gasprice.md)
     - [Txpool](en-us/dev/txpool.md)
 - Announcement
     - [Announcement](en-us/Announcement.md)
