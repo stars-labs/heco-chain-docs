@@ -30,7 +30,7 @@ wss://ws-mainnet.hecochain.com
 v1:
 https://hecoinfo.com
 
-v0:
+v0: 3-5 退出运营
 https://scan.hecochain.com
 ```
 

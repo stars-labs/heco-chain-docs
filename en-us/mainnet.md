@@ -21,7 +21,7 @@ wss://ws-mainnet-node.huobichain.com
 
 ## explorer
 ```
-https://scan.hecochain.com
+https://hecoinfo.com
 ```
 
 # P2P Nodes

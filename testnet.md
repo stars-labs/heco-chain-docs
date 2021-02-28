@@ -11,7 +11,7 @@ wss://ws-testnet.hecochain.com
 ```
 ## 浏览器
 ```
-https://scan-testnet.hecochain.com
+https://testnet.hecoinfo.com
 ```
 
 ## 测试币水龙头

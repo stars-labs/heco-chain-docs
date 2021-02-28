@@ -5,7 +5,7 @@ Contract Address：
 
 Ethereum： [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://etherscan.io/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
-HECO: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://scan.hecochain.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
+HECO: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://hecoinfo.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
 # How it works
 
