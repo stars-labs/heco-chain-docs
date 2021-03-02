@@ -1,5 +1,18 @@
 # The latest Announcement
 
+## Heco Initiates Combating Scam Along with Partners
+
+It has come to our knowledge that there have been projects created with malicious purposes on HECO. And we will take a series of actions to guarantee a safe and healthy developing environment: in-depth security audits on various eco projects, opening source codes, adding time locks and deploying governance contracts.
+
+HECO wants to work with the community with a sincere and honest mindset and using community governance for restraint on bad behaviors. We want to help projects gain more users' trust and participation. For quality projects, Heco will also join hands with partners and continue providing them with strong support. At the same time, to promote the healthy development of the Heco ecosystem, Heco and its partners will ONLY support projects that complete security audits, open source, and decentralized. Heco will boycott the projects that are not. 
+
+Heco recommends frequent community participation in DeFi rationally and for users to carefully understand and study how the project works, the team's background, and the code before participation. Do not participate in unaudited, non-open source projects.
+
+In order to promote the development of quality projects, Heco has joined hands with well-known auditing organizations to provide green audit channels for Heco eco-projects and take practical measures to help the healthy development of Heco eco-projects.
+
+
+HECO Team
+
 ## MX, native token of MXC platform, will be cross-linked into Heco.
 
 Dear users，
