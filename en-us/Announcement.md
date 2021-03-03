@@ -1,5 +1,50 @@
 # The latest Announcement
 
+## We Make Future Phase 2 Registration Opened
+
+Heco is a young, dynamic and full of infinite possibilities world. Since its launch, we have welcomed nearly 100 development teams worldwide to start together“Era of Making" and jointly build Heco ecosystem. Heco hopes to provide more efficient support to global developers and reward eco-builders and contributors. 
+
+Heco will launch the second phase of the“We Make Future". Developers can deploy and run DApps on Heco. Heco will assess Top10 based on the registered project operations and award the title of "Golden Creator", as well as provide rewards.
+
+Registration time：
+00:00 March 3th - 24:00 March 10th, 2021
+
+Event time：
+00:00 March 11th - 24:00 March 31, 2021
+
+Result release: 
+April 8th, 2021
+
+Scoring rules：
+Current "We Make Future" phase will pay more attention to Heco ecosystem infrastructure creation, so the following types of projects will be more likely to get extra points in the final score: derivatives trading, oracles, auction platforms, stablecoins, NFT, synthetic assets, data services, etc.
+
+Heco Fund will set up evaluation committee and score the projects based on fairness and justice. Scoring dimensions include 4 categories: project characteristics and attributes, on-chain data, market reputation, project potential. Different projects will be assessed based on different dimensions and aspects.
+
+Awards and benefits:
+1st and 2nd 'Gold Creator' winners will be recommended to Huobi Global listing audit.
+3rd - 5th 'Gold Creator' winners will receive an investment from Heco Fund
+6th-10th 'Gold Creator' winners will get Heco alliance members investment or Huobi pool liquidity support up to $ 1 million.
+All 'Gold Creator' winners can get Heco global marketing resources support
+
+Registration form：
+Please developers through Huobi ecological chain official website: hecochain.com to register or submit an application through the following registration link：
+
+Chinese registration link:https://jinshuju.net/f/mkP0ZU
+
+English registration link:https://docs.google.com/forms/d/1btQP4tg_qpjNjrk70uSb-jW2vooOFr2lM3ImGagXaJg/prefill
+
+* All registration projects can log in to the "creator ecological map" and get the whole network publicity opportunities
+Developers are requested to register through the official website of Heco: hecochain.com or submit an application through the following registration link:
+
+Registration link in Chinese : https://jinshuju.net/f/pylg4Q
+
+Registration link in English: :https://docs.google.com/forms/d/e/1FAIpQLSekFxYEznaSJXuzFQFnJlegZeitaL7AiuCdsrNxOCzXDXL5Lw/viewform?usp=sf_link
+
+* All registered projects can log into "We Make Future" Eco Map and get a chance to develope the whole network.
+
+Heco 
+March 2st,2021
+
 ## Heco Initiates Combating Scam Along with Partners
 
 It has come to our knowledge that there have been projects created with malicious purposes on HECO. And we will take a series of actions to guarantee a safe and healthy developing environment: in-depth security audits on various eco projects, opening source codes, adding time locks and deploying governance contracts.
