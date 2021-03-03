@@ -25,7 +25,9 @@ Top10“金牌造物主”奖项及权益：
 · 所有金牌造物主均可获得Heco全球营销资源支持
 
 请开发者通过Heco官网：hecochain.com进行报名或通过以下报名链接提交申请：
+
 中文报名链接：https://jinshuju.net/f/pylg4Q
+
 英文报名链接：https://docs.google.com/forms/d/e/1FAIpQLSekFxYEznaSJXuzFQFnJlegZeitaL7AiuCdsrNxOCzXDXL5Lw/viewform?usp=sf_link
 
 风险提示：
