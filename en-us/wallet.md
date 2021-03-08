@@ -25,7 +25,7 @@ scan: https://hecoinfo.com
 ```
 chainid: 256
 rpc: https://http-testnet.hecochain.com
-scan: https://scan-testnet.hecochain.com
+scan: https://testnet.hecoinfo.com
 ```
 
 # huobi wallet app

@@ -39,6 +39,8 @@ The expiration time for the subsidy is 1 day(28800 blocks)；
 
 ![avatar](../../images/grade-en.png)
 
+> max 5 txs subsidy for one account per day
+
 ### API
 
 https://meta-mainnet.hecochain.com
