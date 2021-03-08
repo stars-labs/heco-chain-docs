@@ -40,7 +40,7 @@ https://github.com/HuobiGroup/metatx-Java-demo
 
 ![avatar](../images/grade-cn.png)
 
-> 对单账户，每天补贴 5 笔
+> 对单账户，每天最多补贴 5 笔
 
 
 ### API
