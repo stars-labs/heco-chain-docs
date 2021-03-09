@@ -19,6 +19,12 @@ ssd iops>5k
 ssd iops>5k
 ```
 
+### 网络
+
+```
+建议开启 TCP/UDP 32668 端口；便于 p2p 发现和互联
+```
+
 ## 链节点配置
 
 * config.toml

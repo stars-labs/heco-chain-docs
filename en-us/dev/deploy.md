@@ -19,6 +19,12 @@ ssd iops>5k
 ssd iops>5k
 ```
 
+### network&port
+
+```
+Port TCP/UDP 32668
+```
+
 ## chain node
 
 * config.toml
