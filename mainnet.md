@@ -36,6 +36,8 @@ https://scan.hecochain.com
 
 # P2P 节点
 
+开放 P2P 端口（默认 32668） udp/tcp
+
 ## 国内连接
 
 ```

@@ -26,6 +26,8 @@ https://hecoinfo.com
 
 # P2P Nodes
 
+allow P2P port（default 32668） udp/tcp
+
 > the following nodes are default config for bootstrap node in code https://github.com/HuobiGroup/huobi-eco-chain/blob/master/params/bootnodes.go
 
 ```
