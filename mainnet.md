@@ -23,6 +23,11 @@ https://http-mainnet-node.defibox.com
 wss://wss-mainnet-node.defibox.com
 ```
 
+**社区节点服务**  
+```
+https://dashboard.apron.network
+```
+
 ## 浏览器
 ```
 v1:
