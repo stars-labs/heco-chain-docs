@@ -1,14 +1,20 @@
 # 测试网信息
 
-## chainid
+## ChainId
 ```
 256
 ```
-## rpc
+## RPC
 ```
 https://http-testnet.hecochain.com
 wss://ws-testnet.hecochain.com
 ```
+
+**社区节点服务**
+```
+https://dashboard.apron.network
+```
+
 ## 浏览器
 ```
 https://testnet.hecoinfo.com
