@@ -1,20 +1,26 @@
 # Testnet Info
 
-## chainid
+## ChainId
 ```
 256
 ```
-## rpc
+## RPC
 ```
 https://http-testnet.hecochain.com
 wss://ws-testnet.hecochain.com
 ```
-## explorer
+
+**RPC service provided by community**
+```
+https://dashboard.apron.network
+```
+
+## Explorer
 ```
 https://scan-testnet.hecochain.com
 ```
 
-## faucet
+## Faucet
 
 ```
 https://scan-testnet.hecochain.com/faucet
