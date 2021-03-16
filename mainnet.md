@@ -10,19 +10,16 @@
 
 ```
 https://http-mainnet-node.huobichain.com
-wss://ws-mainnet-node.huobichain.com
 ```
 
 社区节点-国内访问：
 ```
 https://http-mainnet-node.defibox.com
-wss://wss-mainnet-node.defibox.com
 ```
 
 国外访问：
 ```
 https://http-mainnet.hecochain.com
-wss://ws-mainnet.hecochain.com
 ```
 
 ## 浏览器
