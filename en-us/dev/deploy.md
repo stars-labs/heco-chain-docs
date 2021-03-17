@@ -22,6 +22,7 @@ ssd iops>5k
 ### network&port
 
 ```
+External IP Address
 Port TCP/UDP 32668
 ```
 
