@@ -225,7 +225,7 @@ Once this project is initialized, you'll now have a project structure with the f
 * hardhat-config.js: Hardhat configuration file
 
 + Create Contract
-You can write your own contract, like the contract template of HRC20 token [HRC20 TEMPLATE](/hrc20.md) .
+You can write your own contract, like the contract template of HRC20 token [HRC20 TEMPLATE](./hrc20.md) .
 
 + Config Hardhat for HECO
 Go to hardhat.config.js
