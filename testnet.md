@@ -22,6 +22,7 @@ https://testnet.hecoinfo.com
 ## 测试币水龙头
 https://scan-testnet.hecochain.com/faucet
 
+
 ## P2P节点
 节点程序已内置了部分P2P节点，大陆用户如遇到同步问题，可以添加以下P2P节点
 ```

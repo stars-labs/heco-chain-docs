@@ -45,7 +45,10 @@ https://github.com/HuobiGroup/metatx-Java-demo
 
 ### API
 
-https://meta-mainnet.hecochain.com
+```
+https://meta-mainnet.hecochain.com [主网]
+https://meta-testnet.hecochain.com [测试网]
+```
 
 - 计算补贴费率
   
