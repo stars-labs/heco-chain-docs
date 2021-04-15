@@ -23,7 +23,7 @@ By running `./build/bin/geth --help`, we can get all `option` info. Specific usa
 
 ## Deployment
 
-please refer [deployment](./deploy.md)
+please refer [deployment](/en-us/dev/deploy.md)
 
 > SSD is required
 
