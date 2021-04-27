@@ -7,6 +7,7 @@
 ## rpc
 ```
 https://http-testnet.hecochain.com
+wss://ws-testnet.hecochain.com
 ```
 
 大陆访问
@@ -14,6 +15,7 @@ https://http-testnet.hecochain.com
 https://http-testnet.huobichain.com 
 wss://ws-testnet.huobichain.com
 ```
+
 ## 浏览器
 ```
 https://testnet.hecoinfo.com
