@@ -1,0 +1,171 @@
+version: "3"
+services:
+  geth-bootnode:
+    hostname: geth-bootnode
+    environment:
+      - nodekeyhex=08f0e1dee5c1b4645f3331a566009e41a4514b6cd28656d63d0449ecf812812b
+    build:
+      context: ./bootnode
+    ports:
+      - 30301:30301/udp
+    networks:
+      chainnet:
+        ipv4_address: 172.25.0.101 # The miners need to know the IP address later on
+  geth-dev-miner-1:
+    hostname: geth-dev-miner-1
+    depends_on:
+      - geth-bootnode
+    environment:
+      - address=0x1aa397e02fb3abba1072b431e92b0f90fe60993c #derived from the private key which is passed in the args
+      - bootnodeId=76a8171707eca17647a47ca99ffd348927dfa60102792ea349a25d5192e61855be83b786e376276a306afcceea4ffd1c9c77e4370b417efc39f328a0d068004c #derived from the nodekeyhex of the bootnode
+      - bootnodeIp=172.25.0.101
+    build:
+      context: .
+      dockerfile: ./miner/Dockerfile
+      args:
+        privatekey: 6ba10317b73f7b2ccb72a32776deb34f9e293ecd53249cc07a7b2ddcdc4a516a # Please don't do something like this in production, okay?
+        password: 123456
+    ports:
+      - 8546:8545
+    container_name: geth-miner-1
+    volumes:
+      - eth-data-1:/root/.ethash
+    networks:
+      chainnet:
+        ipv4_address: 172.25.0.102 # The monitor needs to know this address
+
+  geth-dev-miner-2:
+    hostname: geth-dev-miner-2
+    depends_on:
+      - geth-bootnode
+    environment:
+      - address=0xb4675e493f17b84828e70f18fddce3c55ec67d6f #derived from the private key which is passed in the args
+      - bootnodeId=76a8171707eca17647a47ca99ffd348927dfa60102792ea349a25d5192e61855be83b786e376276a306afcceea4ffd1c9c77e4370b417efc39f328a0d068004c #derived from the nodekeyhex of the bootnode
+      - bootnodeIp=172.25.0.101
+    build:
+      context: .
+      dockerfile: ./miner/Dockerfile
+      args:
+        privatekey: de4e215aafd215d0bdded8150ff2ce34cc5f36bda18805f45374d2b7e3f746a1 # Please don't do something like this in production, okay?
+        password: 123456
+    container_name: geth-miner-2
+    ports:
+      - 8547:8545
+    volumes:
+      - eth-data-2:/root/.ethash
+    networks:
+      chainnet:
+        ipv4_address: 172.25.0.103 # The monitor needs to know this address
+
+  geth-dev-miner-3:
+    hostname: geth-dev-miner-3
+    depends_on:
+      - geth-bootnode
+    environment:
+      - address=0x192bbe6143d57fee4d0e6fd6ec55d9c83bd5d6c9 #derived from the private key which is passed in the args
+      - bootnodeId=76a8171707eca17647a47ca99ffd348927dfa60102792ea349a25d5192e61855be83b786e376276a306afcceea4ffd1c9c77e4370b417efc39f328a0d068004c #derived from the nodekeyhex of the bootnode
+      - bootnodeIp=172.25.0.101
+    build:
+      context: .
+      dockerfile: ./miner/Dockerfile
+      args:
+        privatekey: 92786010605db23cec8db366a6884c98abf0c0ce13f13ccd16e8e96b52f71a24 # Please don't do something like this in production, okay?
+        password: 123456
+    container_name: geth-miner-3
+    ports:
+      - 8548:8545
+    volumes:
+      - eth-data-3:/root/.ethash
+    networks:
+      chainnet:
+        ipv4_address: 172.25.0.104 # The monitor needs to know this address
+
+  geth-dev-miner-4:
+    hostname: geth-dev-miner-4
+    depends_on:
+      - geth-bootnode
+    environment:
+      - address=0xc48bfe79065ddfd8d84d535f47c480bf38d568ce #derived from the private key which is passed in the args
+      - bootnodeId=76a8171707eca17647a47ca99ffd348927dfa60102792ea349a25d5192e61855be83b786e376276a306afcceea4ffd1c9c77e4370b417efc39f328a0d068004c #derived from the nodekeyhex of the bootnode
+      - bootnodeIp=172.25.0.101
+    build:
+      context: .
+      dockerfile: ./miner/Dockerfile
+      args:
+        privatekey: 55a49619a35b19fe9c9b0d8391d7ad73f313cad8c8362493bb0b3fc8a7b94d7c # Please don't do something like this in production, okay?
+        password: 123456
+    container_name: geth-miner-4
+    ports:
+      - 8549:8545
+    volumes:
+      - eth-data-4:/root/.ethash
+    networks:
+      chainnet:
+        ipv4_address: 172.25.0.105 # The monitor needs to know this address
+
+  geth-dev-miner-5:
+    hostname: geth-dev-miner-5
+    depends_on:
+      - geth-bootnode
+    environment:
+      - address=0x38e439a4abead544e0f11a323d4091f58f5431ad #derived from the private key which is passed in the args
+      - bootnodeId=76a8171707eca17647a47ca99ffd348927dfa60102792ea349a25d5192e61855be83b786e376276a306afcceea4ffd1c9c77e4370b417efc39f328a0d068004c #derived from the nodekeyhex of the bootnode
+      - bootnodeIp=172.25.0.101
+    build:
+      context: .
+      dockerfile: ./miner/Dockerfile
+      args:
+        privatekey: 4e55ec28086af0e1ad36fe623de25b5142e0c641ac6bda02d73104497a6d735f # Please don't do something like this in production, okay?
+        password: 123456
+    container_name: geth-miner-5
+    ports:
+      - 8550:8545
+    volumes:
+      - eth-data-5:/root/.ethash
+    networks:
+      chainnet:
+        ipv4_address: 172.25.0.106 # The monitor needs to know this address
+
+  geth-dev-node:
+    hostname: geth-dev-node
+    depends_on:
+      - geth-dev-miner-1
+    environment:
+      - address=0x82C6a1D3Bbd77416d539706b0aFf2129F8Df0CeD #derived from the private key which is passed in the args
+      - bootnodeId=76a8171707eca17647a47ca99ffd348927dfa60102792ea349a25d5192e61855be83b786e376276a306afcceea4ffd1c9c77e4370b417efc39f328a0d068004c #derived from the nodekeyhex of the bootnode
+      - bootnodeIp=172.25.0.101
+    build:
+      context: .
+      dockerfile: ./node/Dockerfile
+      args:
+        privatekey: abbf3f5a4129d7f088a3ca4fc7706044b85f376b20d2e69a8dcc12391b57740b
+        password: 123456
+    container_name: geth-node
+    ports:
+      - 8545:8545
+    healthcheck:
+      test: wget http://localhost:8545
+      interval: 2s
+      timeout: 5s
+      retries: 30
+    volumes:
+      - eth-data-6:/root/.ethash
+    networks:
+      chainnet:
+        ipv4_address: 172.25.0.110
+
+networks:
+  chainnet:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.25.0.0/24
+
+volumes:
+  eth-data-1:
+  eth-data-2:
+  eth-data-3:
+  eth-data-4:
+  eth-data-5:
+  eth-data-6:
+
