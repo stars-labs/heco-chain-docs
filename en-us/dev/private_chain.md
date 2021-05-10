@@ -75,7 +75,7 @@ Or you can also looking to the `UTC-**`file under the `data/keystore` path to fi
 - `congress`  Consensus-related parameters.
 - `period` Block interval time.
 - `extraData` Use to set inital validators. Replace `8cc5a1a0802db41db826c2fcb72423744338dcb0` with your own address. If you want multiple validators, you can replace with stitching them together.
-- `alloc` `000000000000000000000000000000000000F000` `000000000000000000000000000000000000F001` `000000000000000000000000000000000000F002` are system contracts. If you wish to compile it yourself, you can configure `deployedBytecode` to the `code` field after compilation. 
+- `alloc` `000000000000000000000000000000000000f000` `000000000000000000000000000000000000f001` `000000000000000000000000000000000000f002` are system contracts. If you wish to compile it yourself, you can configure `deployedBytecode` to the `code` field after compilation. 
 
 ## Create genesis block
 After generating the `genesis.json` file, execute the following command to generate the genesis block.
