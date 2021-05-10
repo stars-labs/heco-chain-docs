@@ -110,6 +110,7 @@ SyncMode = "full"
 
 ## start bash
 
+> To show full detail help info of all flags, type `geth help` or `geth -h`
 
 * run.sh
 
@@ -139,6 +140,12 @@ so：
 --syncmode full \
 --gcmode archive \
 --verbosity 3  >> /data/heco/logs/systemd_chain_console.out 2>&1
+```
+
+If no any network flags were provided, the node will connect the heco-mainnet by default. If you want to connect to heco-testnet, add:
+
+```
+--testnet
 ```
 
 ## systemd config

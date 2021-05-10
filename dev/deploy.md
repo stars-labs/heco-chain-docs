@@ -111,6 +111,7 @@ SyncMode = "full"
 
 ## 启动脚本
 
+> 启动参数完整帮助信息，可通过命令 `geth help` 或 `geth -h` 进行查阅。
 
 * run.sh
 
@@ -142,6 +143,11 @@ SyncMode = "full"
 --verbosity 3  >> /data/heco/logs/systemd_chain_console.out 2>&1
 ```
 
+节点未指定网络标识时，默认连接heco主网；若需要连接heco测试网，需加入以下参数:
+
+```
+--testnet
+```
 
 ## systemd配置
 
