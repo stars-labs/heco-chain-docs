@@ -47,7 +47,6 @@ Selection Criteria: Passionate about blockchain and a supporter of HECO
 
 Application：
 https://docs.google.com/forms/d/e/1FAIpQLSc5I6kKTHtQ9Fi_B8fj0mOFL3pgkZFttoH_y96FPq39o8TolQ/viewform
-![image](https://user-images.githubusercontent.com/77883872/124883511-f97a5600-e003-11eb-9c0d-8d50e139e191.png)
 
 
 
