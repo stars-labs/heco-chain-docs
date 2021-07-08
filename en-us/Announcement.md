@@ -11,6 +11,7 @@ Heco Alliance Ambassador Program is organized by Heco Group. It is not only a gl
 
 If you are passionate about joining the Heco platform, we welcome you to become a Heco Alliance Ambassador, with access to various benefits and an opportunity to share the future growth of the Heco chain.
 
+
 2. What kind of person can become Heco Alliance Ambassador?
 
  a. Professionals who are deeply involved in the local country or region and understand the local blockchain market.
@@ -20,6 +21,7 @@ If you are passionate about joining the Heco platform, we welcome you to become 
  c. Able to assist Heco in connecting local partner resources (including but not limited to the capital, incubators, wallets, quotation websites, etc.)
 
  d. Able to respond to requests promptly and assist in the joint promotion of Heco ecological development.
+ 
 
 3. What are the benefits of becoming Heco Alliance Ambassador?
 
@@ -32,12 +34,14 @@ If you are passionate about joining the Heco platform, we welcome you to become 
  d. Heco alliance ambassador will be invited to exclusive Heco ambassador meet-ups, with Heco ambassadors and senior Heco team members
 
  e. If Heco ambassador can refer projects or developers deploying on Heco chain and help guide the development of the projects, the Heco alliance ambassador will receive a certain bonus package from the Heco Foundation and certain bonuses from the projects if the projects work well.
+ 
 
 4. Term and arrangement:
 
  a. Up to 2 Heco alliance ambassadors in each country/region.
 
  b. Except for the outstanding Heco Alliance Ambassador, the Heco Alliance Ambassador who has successfully passed the assessment will have a 6 month term of service, and the person will need to apply again after 6 months.
+ 
 
 5.Guidelines:
 
