@@ -19,6 +19,7 @@ At the same time, HECO will hold a series of activities to further the developme
 
 
 Please apply and contact us through the following channels
+
 Join Hackathon:https://reurl.cc/xG4734
 
 Fund application email: invest@hecochain.com
