@@ -9,11 +9,11 @@ In order to better serve developers and on-chain programs, the incentive program
 
 2.Design & Development Phase: Projects will receive access to professional audit agencies, technical teams, and the HECO foundation, which helps to secure DAPPs and other smart contracts through a formal verification process and lay a foundation for its development and implementation.
 
-3.	Marketing Phase: Projects will get the opportunity to promote the project brand globally and find access to official coverage.
+3.Marketing Phase: Projects will get the opportunity to promote the project brand globally and find access to official coverage.
 
-4.	Operation Phase: Developers are empowered to carry out refined operations, including community operation, and user analysis, so as to improve the activity and retention of developer and user communities
+4.Operation Phase: Developers are empowered to carry out refined operations, including community operation, and user analysis, so as to improve the activity and retention of developer and user communities
 
-5.	Analysis stage: Projects will get blockchain industry research reports and safety warning information from the HECO team to ensure the smooth progress of projects.
+5.Analysis stage: Projects will get blockchain industry research reports and safety warning information from the HECO team to ensure the smooth progress of projects.
 
 At the same time, HECO will hold a series of activities to further the development of developers and projects.
 
