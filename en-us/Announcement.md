@@ -21,7 +21,10 @@ At the same time, HECO will hold a series of activities to further the developme
 Please apply and contact us through the following channels
 
 Join Hackathon:https://reurl.cc/xG473
-Fund application email: Please send BP, white paper, or other information about your team and business to ### invest@hecochain.com
+
+Fund application email: 
+
+Please send BP, white paper, or other information about your team and business to  invest@hecochain.com 
 
 
 Keep in touch with HECO
