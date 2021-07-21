@@ -1,7 +1,7 @@
 # The latest Announcement
 ## HECO Chain One-Million-Dollar Incentive Program!
 
-LONDON, July 20, 2021, Huobi Eco Chain (HECO), a decentralized, EVM-compatible public chain, today announced the initiation of its One-million Dollar Incentive Program, aiming to motivate blockchain developers and empower HECO application market. The program will be the first to open a blockchain market in the Russian-speaking region
+LONDON, July 20, 2021, Huobi HECO Chain (HECO), a decentralized, EVM-compatible public chain, today announced the initiation of its One-million Dollar Incentive Program, aiming to motivate blockchain developers and empower HECO application market. The program will be the first to open a blockchain market in the Russian-speaking region
 
 In order to better serve developers and on-chain programs, the incentive program will provide developers and on-chain programs with full-life cycle services and traffic support, including:
 
@@ -20,9 +20,8 @@ At the same time, HECO will hold a series of activities to further the developme
 
 Please apply and contact us through the following channels
 
-Join Hackathon:https://reurl.cc/xG4734
-
-Fund application email: invest@hecochain.com
+Join Hackathon:https://reurl.cc/xG473
+Fund application email: Please send BP, white paper, or other information about your team and business to ### invest@hecochain.com
 
 
 Keep in touch with HECO
