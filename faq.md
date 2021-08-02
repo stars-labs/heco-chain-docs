@@ -59,3 +59,14 @@ https://github.com/MetaMask/metamask-extension/issues/10202
 2）如果使用多个显示器，将窗口放到主显示器
 
 3）使用其他浏览器
+
+# 合约验证
+
+1. 交易部署工具是remix 还是 truffle or？
+2. 交易验证版本/是否开启优化？
+3. 合约部署过程中，是否有独立的library 部署？
+4. 涉及多文件部分建议使用truffle-flatten 合并为单一文件
+5. 是否包含spdx 文件， 如果包含，编译器版本是否小于0.6.6
+6. 只保留了一个 spdx 
+7. 有初始化参数嘛，是否考虑使用https://abi.hashex.org/ 帮助浏览器识别合初始化造参数。
+ https://info.etherscan.com/determine-correct-constructor-argument-during-source-code-verification-on-etherscan/
