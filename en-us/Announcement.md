@@ -7,10 +7,18 @@ TUSD is stationed in HECO, the first round of ecological linkage is opened. From
 How to participate:Click on the entrance to participate in mining.
 
 Activity I. Lossless Mining for Single Currency 
-![image](https://user-images.githubusercontent.com/77883872/128130700-99dd7fff-1c90-486e-bf5d-386410ed9255.png)
+| Coin Staking| DAPP |EST.APY| Staking Rewards |Entrance |
+| --- | ----------- | ----------- |----------- |----------- |
+| MDX | Mdex.com Boardroom  |50%| TUSD | https://mdex.com/#/pool/boardroom/tusd/0 |
+| TUSD | Filda.io |10%| Filda&TUSD |  https://filda.io |
+| TUSD | Channels.finance |10%| Filda&TUSD | https://channels.finance|
+
 
 Activity II. LP Mining!
-![image](https://user-images.githubusercontent.com/77883872/128130726-cd9c757d-ee1d-4560-ab61-b78d51a52f07.png)
+| Coin Staking| DAPP |EST.APY| Staking Rewards |Entrance |
+| --- | ----------- | ----------- |----------- |----------- |
+| MDX | Mdex.com |20%| MDX | https://mdex.com/#/pool/liquidity/mdx/92 |
+
 
 Exclusive cross-chain bridge 
 Entrance：www.iswap.com（The first 20,000 cross-chain TUSD transactions via iSwap yield 0.01HT）.
