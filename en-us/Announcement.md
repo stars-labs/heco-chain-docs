@@ -1,24 +1,16 @@
 # The latest Announcement
 
-## TUSD stable coin gold shovel mining is coming (NO.1)![image](https://user-images.githubusercontent.com/77883872/128130119-378b94e0-3617-497a-afd3-4f0d920355d0.png)
-
+## TUSD stable coin gold shovel mining is coming (NO.1)!
 Dear users:
 TUSD is stationed in HECO, the first round of ecological linkage is opened. From August 4 to August 18, HECO community, TUSD community, Huobi Wallet and other 7wallets jointly launched TUSD stable coin gold shovel mining activities, users can first choose to pledge TUSD single currency or group liquidity mining transaction pair, participate in the "TUSD gold shovel" limited-time mining activities.
 
 How to participate:Click on the entrance to participate in mining.
 
 Activity I. Lossless Mining for Single Currency 
-Coin Staking	DAPP	EST.APY	Staking Rewards	Entrance
-MDX	Mdex.com Boardroom	50%	TUSD	https://mdex.com/#/pool/boardroom/tusd/0
+![image](https://user-images.githubusercontent.com/77883872/128130700-99dd7fff-1c90-486e-bf5d-386410ed9255.png)
 
-TUSD	Filda.io	10%	Filda&TUSD	https://filda.io
-
-TUSD	Channels.finance	10%	Can&TUSD	https://channels.finance
-
-Activity II. LP Mining
-Coin Staking	DAPP	EST.APY	Staking Rewards	Entrance
-TUSD/USDT	Mdex.com
-20%	MDX	https://mdex.co/#/pool/liquidity/mdx/92
+Activity II. LP Mining!
+![image](https://user-images.githubusercontent.com/77883872/128130726-cd9c757d-ee1d-4560-ab61-b78d51a52f07.png)
 
 Exclusive cross-chain bridge 
 Entrance：www.iswap.com（The first 20,000 cross-chain TUSD transactions via iSwap yield 0.01HT）.
@@ -36,8 +28,6 @@ Mining on the chain is a high-risk investment method. Investors should carefully
 
 HECO Chain Team 
 August 4, 2021
-![image](https://user-images.githubusercontent.com/77883872/128130048-45b495a3-63d4-4003-b172-7ee4a5166385.png)
-
 
 
 
