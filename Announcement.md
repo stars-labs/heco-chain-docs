@@ -1,5 +1,34 @@
 # 最新公告
 
+## TUSD稳定币金铲子挖矿来了（NO.1）
+
+亲爱的用户：
+TUSD入驻HECO，首轮生态联动开启。8月4日-8月18日，HECO社区、TUSD社区，Huobi Wallet等7大钱包联合发起TUSD稳定币金铲子挖矿活动，用户可先择质押TUSD单币或组流动性挖矿交易对，参与“TUSD金铲子”限时挖矿活动。
+参与方式：点击参与链接即可参与挖矿
+
+单币质押
+![image](https://user-images.githubusercontent.com/77883872/128131148-e74ef225-1803-4d5d-a2e0-b3fced40ac3e.png)
+
+流动性挖矿!
+![image](https://user-images.githubusercontent.com/77883872/128131210-c18a497e-98e9-4256-a5f8-a111463c1c64.png)
+
+独家跨链桥支持
+
+参与链接：www.iswap.com（前20000笔通过iSwap进行跨链TUSD的交易，可获得0.01HT）
+
+如何获得HECO版TUSD?
+1.中心化交易所：Huobi Global已支持TUSD多链充提（ERC20/HECO），用户可通过Huobi Global充提HECO版TUSD
+
+2.跨链桥：通过iSwap置换TUSD
+
+具体活动详情以各项目方公告为准，TUSD金铲子活动持续三期，后面将开放更多场景，敬请关注。
+
+风险提示：链上挖矿是一种高风险的投资方式，投资者请自行评估后谨慎参与，并注意投资风险。
+
+HECO 团队
+2021年8月4日
+
+
 ## Heco即将上线26个锚定资产公告
 
 尊敬的用户：
