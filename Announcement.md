@@ -7,9 +7,11 @@ TUSD入驻HECO，首轮生态联动开启。8月4日-8月18日，HECO社区、TU
 参与方式：点击参与链接即可参与挖矿
 
 单币质押
+
 ![image](https://user-images.githubusercontent.com/77883872/128131148-e74ef225-1803-4d5d-a2e0-b3fced40ac3e.png)
 
 流动性挖矿!
+
 ![image](https://user-images.githubusercontent.com/77883872/128131210-c18a497e-98e9-4256-a5f8-a111463c1c64.png)
 
 独家跨链桥支持
