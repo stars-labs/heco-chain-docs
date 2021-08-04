@@ -12,7 +12,7 @@ TUSD入驻HECO，首轮生态联动开启。8月4日-8月18日，HECO社区、TU
 | --- | ----------- | ----------- |----------- |----------- |
 | MDX | Mdex.com董事会 |50%| TUSD | https://mdex.com/#/pool/boardroom/tusd/0|
 | TUSD | Filda.io |10%| Filda&TUSD |  https://filda.io|
-| TUSD | Channels.finance |10%| Filda&TUSD | https://channels.finance|
+| TUSD | Channels.finance |10%| CAN&TUSD | https://channels.finance|
 
 
 流动性挖矿
@@ -24,7 +24,7 @@ TUSD入驻HECO，首轮生态联动开启。8月4日-8月18日，HECO社区、TU
 
 独家跨链桥支持
 
-参与链接：www.iswap.com（前20000笔通过iSwap进行跨链TUSD的交易，可获得0.01HT）
+参与链接：www.iswap.com （前20000笔通过iSwap进行跨链TUSD的交易，可获得0.01HT）
 
 如何获得HECO版TUSD?
 1.中心化交易所：Huobi Global已支持TUSD多链充提（ERC20/HECO），用户可通过Huobi Global充提HECO版TUSD
@@ -36,6 +36,7 @@ TUSD入驻HECO，首轮生态联动开启。8月4日-8月18日，HECO社区、TU
 风险提示：链上挖矿是一种高风险的投资方式，投资者请自行评估后谨慎参与，并注意投资风险。
 
 HECO 团队
+
 2021年8月4日
 
 
