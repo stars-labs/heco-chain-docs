@@ -17,7 +17,7 @@ Activity I. Lossless Mining for Single Currency
 Activity II. LP Mining!
 | Coin Staking| DAPP |EST.APY| Staking Rewards |Entrance |
 | --- | ----------- | ----------- |----------- |----------- |
-| MDX | Mdex.com |20%| MDX | https://mdex.com/#/pool/liquidity/mdx/92 |
+| TUSD/USDT | Mdex.com |20%| MDX | https://mdex.com/#/pool/liquidity/mdx/92|
 
 
 Exclusive cross-chain bridge 
