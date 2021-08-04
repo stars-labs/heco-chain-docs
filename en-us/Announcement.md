@@ -12,7 +12,7 @@ Activity I. Lossless Mining for Single Currency
 | --- | ----------- | ----------- |----------- |----------- |
 | MDX | Mdex.com Boardroom |50%| TUSD | https://mdex.com/#/pool/boardroom/tusd/0|
 | TUSD | Filda.io |10%| Filda&TUSD |  https://filda.io|
-| TUSD | Channels.finance |10%| Filda&TUSD | https://channels.finance|
+| TUSD | Channels.finance |10%| CAN&TUSD | https://channels.finance|
 
 
 Activity II. LP Mining!
@@ -22,7 +22,7 @@ Activity II. LP Mining!
 | TUSD/USDT | Mdex.com |20%| MDX | https://mdex.com/#/pool/liquidity/mdx/92|
 
 Exclusive cross-chain bridge 
-Entrance：www.iswap.com（The first 20,000 cross-chain TUSD transactions via iSwap yield 0.01HT）.
+Entrance：www.iswap.com （The first 20,000 cross-chain TUSD transactions via iSwap yield 0.01HT）.
 
 Tips：
 How do you get HECO version TUSD?
@@ -36,6 +36,7 @@ Mining on the chain is a high-risk investment method. Investors should carefully
 
 
 HECO Chain Team 
+
 August 4, 2021
 
 
