@@ -1,31 +1,5 @@
 # The latest Announcement
 
-## Notice about Ethereum London Hard Fork
-
-Dear Valued Developers and Users,
-
-HECO would like to remind you that the upcoming Ethereum London Hard Fork is schedule to take place at 11:36:58 (UTC+0) on August 5, 2021, i.e. 19:36:58 (UTC+8) Singapore time on August 5, 2021.
-
-1. Asset Conversion
-From 11: 00 to 12: 10 (UTC+0) on August 5, 2021, it is recommended that users suspend the conversion of ERC20 assets to HRC20 assets or vice versa through any platforms and wallets.
-
-2. Voting Function of Ecological Nodes
-If you plan to vote during the Ethereum London Hard Fork, it is recommended that you convert HT under ERC20 protocol into the HRC20 protocol before 11:00 (UTC+0) on August 5, 2021, so as to secure your voting rights within the planned time.
-If you plan to convert HT under HRC20 protocol into ERC20 protocol, please do it before or after 11:00-12:10 (UTC+0) on August 5, 2021.
-
-3. Cross-Chain Platform
-From 11:10 to 12:10 (UTC+0) on August 5, 2021, cross-chain platforms in HECO should close the bidirectional cross-chain function between ETH and HECO, and between EVM public chain and HECO.
-
-4. Bifurcated Currency
-HRC20’s handling of the currency coming out of the hard fork will be announced based on how the hard fork plays out.
-
-Kind regards,
-
-HECO Global Team
-
-2021-08-05
-
-
 ## TUSD stable coin gold shovel mining is coming (NO.1)!
 Dear users:
 TUSD is stationed in HECO, the first round of ecological linkage is opened. From August 4 to August 18, HECO community, TUSD community, Huobi Wallet and other 7wallets jointly launched TUSD stable coin gold shovel mining activities, users can first choose to pledge TUSD single currency or group liquidity mining transaction pair, participate in the "TUSD gold shovel" limited-time mining activities.
@@ -65,9 +39,30 @@ HECO Chain Team
 
 August 4, 2021
 
+## Notice about Ethereum London Hard Fork
 
+Dear Valued Developers and Users,
 
+HECO would like to remind you that the upcoming Ethereum London Hard Fork is schedule to take place at 11:36:58 (UTC+0) on August 5, 2021, i.e. 19:36:58 (UTC+8) Singapore time on August 5, 2021.
 
+1. Asset Conversion
+From 11: 00 to 12: 10 (UTC+0) on August 5, 2021, it is recommended that users suspend the conversion of ERC20 assets to HRC20 assets or vice versa through any platforms and wallets.
+
+2. Voting Function of Ecological Nodes
+If you plan to vote during the Ethereum London Hard Fork, it is recommended that you convert HT under ERC20 protocol into the HRC20 protocol before 11:00 (UTC+0) on August 5, 2021, so as to secure your voting rights within the planned time.
+If you plan to convert HT under HRC20 protocol into ERC20 protocol, please do it before or after 11:00-12:10 (UTC+0) on August 5, 2021.
+
+3. Cross-Chain Platform
+From 11:10 to 12:10 (UTC+0) on August 5, 2021, cross-chain platforms in HECO should close the bidirectional cross-chain function between ETH and HECO, and between EVM public chain and HECO.
+
+4. Bifurcated Currency
+HRC20’s handling of the currency coming out of the hard fork will be announced based on how the hard fork plays out.
+
+Kind regards,
+
+HECO Global Team
+
+2021-08-05
 
 ## HECO Chain One-Million-Dollar Incentive Program!
 
