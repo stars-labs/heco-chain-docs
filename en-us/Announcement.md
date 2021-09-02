@@ -1,5 +1,31 @@
 # The latest Announcement
 
+
+# Amazing Mining Thursday on HECO
+
+Dear users:
+
+Both the applications and assets in the HECO ecology are increasingly abundant. HECO communities and Huobi Wallet have jointly launched the " Amazing Mining Thursday on HECO". During the event, users can get higher income by providing LP composed of HaykerDao liquidity or pledged assets, with APY up to 620%. Time of the event: 7:00, September 2- 16:00, September 9, click on the link to join the mining during the " Amazing Mining Thursday on HECO":
+How to participate:Click on the entrance to participate in mining.
+
+1. Liquidity / Mining by pledging LP
+
+
+| Staking LP / Providing liquidity| APY |Participation Links| Description|
+| --- | ----------- | ----------- |----------- |
+| WHT-USDT |60% |https://channels.finance/|Mining by staking LP|
+| DEP/USDT| 620%|https://depth.fi/fund/mining|Mining by staking LP|
+| DAI-USDC-USDT-HUSD |20%|https://belt.fi/heco| Provide HaykerDao LP and participate in liquidity mining|
+
+
+2. Gain 0.01 HT airdrop by transferring cross-chain assets to HECO
+Participation link: https://www.iswap.com/zh-cn/
+
+Risk: Mining on the chain is a high-risk investment method and there could be losses that cannot be compensated after the assets form LP. Investors should participate only after careful self-evaluation and understand the investment risks.
+HECO Team
+2 September 2021
+
+
 ## TUSD stable coin gold shovel mining is coming (NO.1)!
 Dear users:
 TUSD is stationed in HECO, the first round of ecological linkage is opened. From August 4 to August 18, HECO community, TUSD community, Huobi Wallet and other 7wallets jointly launched TUSD stable coin gold shovel mining activities, users can first choose to pledge TUSD single currency or group liquidity mining transaction pair, participate in the "TUSD gold shovel" limited-time mining activities.
