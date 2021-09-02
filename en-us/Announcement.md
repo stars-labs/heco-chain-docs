@@ -24,6 +24,7 @@ Participation link: https://www.iswap.com/zh-cn/
 Risk: Mining on the chain is a high-risk investment method and there could be losses that cannot be compensated after the assets form LP. Investors should participate only after careful self-evaluation and understand the investment risks.
 
 HECO Team
+
 2 September 2021
 
 
