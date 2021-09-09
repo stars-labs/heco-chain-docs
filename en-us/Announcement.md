@@ -1,5 +1,29 @@
 # The latest Announcement
 
+# Amazing Mining Thursday on HECO
+
+Dear users:
+
+Both the applications and assets in the HECO ecology are increasingly abundant. HECO communities and Huobi Wallet have jointly launched the " Amazing Mining Thursday on HECO". During the event, users can get higher income by staking liquidity Pool (LP)  , with APY up to 500%. Click on the link to join the mining during the " Amazing Mining Thursday on HECO":
+
+1. Stake Liquidity Pool (LP) for MAKI Rewards.
+
+
+| LP | APY |Participation Links| 
+| --- | ----------- | ----------- |----------- |
+| MAKI-HT |300% |https://channels.finance/|
+| MAKI-HUSD| 500%|https://app.makiswap.com/farms|
+| MAKI- ETH|400%|https://app.makiswap.com/farms|
+
+
+2. Gain 0.01 HT airdrop by transferring cross-chain assets to HECO
+Participation link: https://www.iswap.com/zh-cn/
+
+Risk: Mining on the chain is a high-risk investment method and there could be losses that cannot be compensated after the assets form LP. Investors should participate only after careful self-evaluation and understand the investment risks.
+
+HECO Team
+
+September 9, 2021
 
 # Amazing Mining Thursday on HECO
 
