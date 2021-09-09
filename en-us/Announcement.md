@@ -10,7 +10,7 @@ Both the applications and assets in the HECO ecology are increasingly abundant. 
 
 
 | LP | APY |Participation Links| 
-| --- | ----------- | ----------- |----------- |
+| --- | ----------- | ----------- |
 | MAKI-HT |300% |https://channels.finance/|
 | MAKI-HUSD| 500%|https://app.makiswap.com/farms|
 | MAKI- ETH|400%|https://app.makiswap.com/farms|
