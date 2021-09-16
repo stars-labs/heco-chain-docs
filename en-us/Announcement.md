@@ -1,4 +1,39 @@
 # The latest Announcement
+Dear users:
+
+Both the applications and assets in the HECO ecology are increasingly abundant. HECO communities and Huobi Wallet have jointly launched the " Amazing Mining Thursday on HECO". During the event, users can get higher income by staking FIL , with APY up to 40%. Click on the link to join the mining during the " Amazing Mining Thursday on HECO":
+
+Period：7:00am,Sep.16-7:00am,Sep.17(UTC)
+
+1. Stake FIL for higher rewards.
+
+| Token | APY |Locked days| Quota |Link |
+| --- | ----------- | ----------- |----------- |----------- |
+| FIL | 40% |360|3000| https://lendmi.pro/|
+| FIL | 35% |180|7000|https://lendmi.pro/|
+| FIL | 10% |None|30000|https://lendmi.pro/|
+
+
+2. 2. Gain  airdrop by staking FIL
+
+During the event, the top 3 users by staking value in the 180 and 360 days pool will receive an additional airdrop bonus.The data is subject to 7:00 am on September 17. After the event, the rewards will be distributed to your HECO address.
+
+Lendmi will provide the following rewards for the two mining pools:
+
+First place, you will get 0.5% FIL of personal staking
+
+Second place, you will get 0.4% FIL of personal staking
+
+Third place, you will get 0.3% FIL of personal staking
+
+Risk: Mining on the chain is a high-risk investment method. Investors should carefully participate after self-assessment and pay attention to investment risks.
+
+HECO Team
+
+September 16, 2021
+
+
+
 
 # Amazing Mining Thursday on HECO
 
