@@ -16,7 +16,7 @@ Period：7:00am,Sep.16-7:00am,Sep.17(UTC)
 | FIL | 10% |None|30000|https://lendmi.pro/|
 
 
-2. 2. Gain  airdrop by staking FIL
+2. Gain  airdrop by staking FIL
 
 During the event, the top 3 users by staking value in the 180 and 360 days pool will receive an additional airdrop bonus.The data is subject to 7:00 am on September 17. After the event, the rewards will be distributed to your HECO address.
 
