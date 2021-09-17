@@ -1,4 +1,6 @@
 # The latest Announcement
+
+# Amazing Mining Thursday on HECO
 Dear users:
 
 Both the applications and assets in the HECO ecology are increasingly abundant. HECO communities and Huobi Wallet have jointly launched the " Amazing Mining Thursday on HECO". During the event, users can get higher income by staking FIL , with APY up to 40%. Click on the link to join the mining during the " Amazing Mining Thursday on HECO":
