@@ -32,8 +32,7 @@ ssd iops>5k
 
 ```
 [Eth]
-SyncMode = "fast"
-DiscoveryURLs = []
+SyncMode = "snap"
 TrieCleanCacheRejournal= 300000000000
 
 [Eth.Miner]
@@ -99,10 +98,10 @@ IdleTimeout = 120000000000
 
 ```
 
-默认使用了快速同步，如果需要使用 full，将下列配置：
+默认使用了快照同步，如果需要使用 full，将下列配置：
 
 ```
-SyncMode = "fast"
+SyncMode = "snap"
 ```
 修改为
 ```

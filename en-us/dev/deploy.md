@@ -32,8 +32,7 @@ Port TCP/UDP 32668
 
 ```
 [Eth]
-SyncMode = "fast"
-DiscoveryURLs = []
+SyncMode = "snap"
 TrieCleanCacheRejournal= 300000000000
 
 [Eth.Miner]
@@ -99,9 +98,9 @@ IdleTimeout = 120000000000
 
 ```
 
-use fast sync in the config, if full needed, change this line
+use snap sync in the config, if full needed, change this line
 ```
-SyncMode = "fast"
+SyncMode = "snap"
 ```
 to
 ```
