@@ -4,6 +4,33 @@
 
 尊敬的用户：
 
+HECO生态中应用及资产日益丰富，HECO社区联合火币钱包发起“HECO每周四金矿日”活动，本周推荐HFIL的单币质押矿池，APY最高达30%，存借资产都有收益。点击链接即可参与“金矿”挖矿：
+
+
+存借资产链接及收益如下：
+
+| 资产/LP | APY |Link| 操作 |
+| --- | ----------- | ----------- |----------- |
+| ETH | 12% |https://demeter.vip/app/#/supply|存|
+| ETH | -14% |https://demeter.vip/app/#/borrow|借|
+| HFIL| 30% |https://lendmi.pro/lend|存|
+| HFIL| -24% |https://demeter.vip/app/#/borrow|借|
+| USDT| 18% |https://bxh.com/#/|存|
+| hCFX/USDT| 180% |9月23日20:00于Mdex开启 [头矿>>](https://ht.mdex.com/#/add/0x045c4324039dA91c52C55DF5D785385Aab073DcF/0xa71EdC38d189767582C38A3145b5873052c3e47a)|流动性挖矿|
+
+备注说明：借贷资产的APY为负值，代表向Demeter项目借币将会获得项目奖励，无需支付利息。
+
+
+风险提示：链上挖矿是一种高风险的投资方式，资产组成LP后可能会产生无常损失，投资者请自行评估后谨慎参与，并注意投资风险。
+
+HECO 团队
+
+2021年9月23日
+
+## HECO每周四金矿日
+
+尊敬的用户：
+
 HECO生态中应用及资产日益丰富，HECO社区联合火币钱包每周四发起“HECO金矿日”活动，APY最高达40%。点击链接即可参与“金矿”挖矿：
 
 
