@@ -1,6 +1,33 @@
 # The latest Announcement
 
 # Amazing Mining Thursday on HECO
+
+Dear users
+
+Both the applications and assets in the HECO ecology are increasingly abundant. HECO communities and Huobi Wallet have jointly launched the " Amazing Mining Thursday on HECO". During the event, users can get higher income through deposit and borrowL, with APY up to 30%. Click on the link to join the mining during the " Amazing Mining Thursday on HECO":
+
+Earn from both deposit and borrow.
+
+| Token | APY |Link| Type |
+| --- | ----------- | ----------- |----------- |
+| ETH | 12% |https://demeter.vip/app/#/supply|Supply|
+| ETH | -14% |https://demeter.vip/app/#/borrow|Borrow|
+| HFIL| 30% |https://lendmi.pro/lend|Stake|
+| HFIL| -24% |https://demeter.vip/app/#/borrow|Borrow|
+| USDT| 18% |https://bxh.com/#/|Stake|
+| hCFX/USDT| 180% |Start at 12:00,Sep.23(UTC) [on Mdex>>](https://ht.mdex.com/#/add/0x045c4324039dA91c52C55DF5D785385Aab073DcF/0xa71EdC38d189767582C38A3145b5873052c3e47a)|Liquidity mining|
+
+Remarks: The APY of asset lending is negative, which means that borrowing tokens from  Demeter will receive rewards without paying interest.
+
+
+Risk: Mining on the chain is a high-risk investment method and there could be losses that cannot be compensated after the assets form LP. Investors should participate only after careful self-evaluation and understand the investment risks.
+
+
+HECO Team
+
+September 23, 2021
+
+# Amazing Mining Thursday on HECO
 Dear users:
 
 Both the applications and assets in the HECO ecology are increasingly abundant. HECO communities and Huobi Wallet have jointly launched the " Amazing Mining Thursday on HECO". During the event, users can get higher income by staking FIL , with APY up to 40%. Click on the link to join the mining during the " Amazing Mining Thursday on HECO":
