@@ -4,7 +4,7 @@
 
 Dear users
 
-Both the applications and assets in the HECO ecology are increasingly abundant. HECO communities and Huobi Wallet have jointly launched the " Amazing Mining Thursday on HECO". During the event, users can get higher income through deposit and borrowL, with APY up to 30%. Click on the link to join the mining during the " Amazing Mining Thursday on HECO":
+Both the applications and assets in the HECO ecology are increasingly abundant. HECO communities and Huobi Wallet have jointly launched the " Amazing Mining Thursday on HECO". During the event, users can get higher income through deposit and borrow, with APY up to 30%. Click on the link to join the mining during the " Amazing Mining Thursday on HECO":
 
 Earn from both deposit and borrow.
 
