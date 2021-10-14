@@ -6,9 +6,9 @@ Dear Developers:
 
 As a decentralized blockchain network, HECO Chain has been open to global developers since its launch. At the same time, HECO community has been actively paying attention to and complying with the regulatory requirements of various regions. In order to provide users with more compliant and consistent services, we would like to have the following adjustments:
 
-1. Anyone located in [USA, Canada, Singapore, Hong Kong, Japan, Cuba, Iran, Korea, Sudan, Syria, Venezuela, Crimea, Chinese mainland, Taiwan Province, Israel, Iraq, Bangladesh, Bolivia, Ecuador, Kyrgyzstan, Sevastopol, UK] is prohibited from using information inquiry services provided by this website (https://www.hecochain.com); The aforementioned information may be adjusted due to laws, policies, force majeure, changes in circumstances and other factors, and may not be notified to you at that time. Please pay close attention to the announcement of this website in time.
+1.Anyone located in [USA, Canada, Singapore, Hong Kong, Japan, Cuba, Iran, Korea, Sudan, Syria, Venezuela, Crimea, Chinese mainland, Taiwan Province, Israel, Iraq, Bangladesh, Bolivia, Ecuador, Kyrgyzstan, Sevastopol, UK] is prohibited from using information inquiry services provided by this website (https://www.hecochain.com); The aforementioned information may be adjusted due to laws, policies, force majeure, changes in circumstances and other factors, and may not be notified to you at that time. Please pay close attention to the announcement of this website in time.
 
-2. Please send an email to heco@hecochain.com if you have any questions about this.
+2.Please send an email to heco@hecochain.com if you have any questions about this.
 
 Thank you for your support and understanding.
 
