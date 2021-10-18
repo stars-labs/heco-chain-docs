@@ -56,26 +56,35 @@ FAQ
 Our Partnerships
 
 CryptoBlades is a role-playing game of Paly-to-Earn from BSC chain to HECO, which will create more surprises.
+
 Official Website: https://app.cryptoblades.io
+
 Telegram：https://t.me/CryptoBlades_General
+
 Twitter：https://twitter.com/bladescrypto?s=21
 
 Plato Farm is a chain game that first launched on the HECO chain and innovatively integrates the concepts of GameFi and DeFi. It is planned to share the vast market space of the trillion-level meta-universe NFT for users who participated in the early game public beta.
 
 Official Website: https://www.platofarm.game
+
 Telegram：https://t.me/platofarm
+
 Twitter：https://twitter.com/Plato_Farm
  
 Budo II is a girl-themed sci-fi shooting love development chain game first released on the HECO chain, with real Japanese voice actors dubbing.
 
 Official Website: https://budo2.com
+
 Telegram: https://t.me/budo2
+
 Twitter: https://twitter.com/BUDO2Game
  
 Boss Rally is a metaverse GameFi chain game, which is deployed on smart chains such as ETH, BSC, Heco, OkexChain, Solana, Avalanche, etc. through decentralized smart contracts. Players can play virtual roles in the game to fight with the Boss, get the level up, collect equipment, breed pets. And at the same time, they can obtain land to participate in farm building, and engage in PvP battles. Boss Rally enables players to earn while playing the game.
 
 Official Website::https://dragongame.co
+
 Telegram: https://t.me/BossRallyOfficial
+
 Twitter: https://twitter.com/Boss_Rally_
  
 Questions about Participation
@@ -85,6 +94,7 @@ Questions about Participation
 [Huobi Global](http://www.huobi.com/）, established in 2013, is a financial services provider in global blockchain assets that offers a wide range of services including assets exchange, trading, wallet, and storage. UID is the ID of personal account with Huobi Global, which can be found by clicking on the upper left corner of its APP and the upper right corner of its Web page.
 
 Telegram: https://t.me/huobiglobalofficial
+
 Twitter：https://twitter.com/HuobiGlobal
  
 2. What's HECO？
@@ -92,8 +102,11 @@ Twitter：https://twitter.com/HuobiGlobal
 [HECO Chain](https://www.hecochain.com/en-us/assets/) is an EVM-compatible public chain that provides blockchain developers with an efficient and low-cost on-chain environment for decentralized applications (Dapps), smart contracts, and digital assets. HECO has recorded approximately 12.9 million total addresses with 474million transactions made on the platform.
 
 Twitter: https://twitter.com/HECO_Chain
+
 Telegram: https://t.me/HECOAnnouncement
+
 HECO Explorer: https://hecoinfo.com
+
 HECO Chain：https://www.hecochain.com
  
 3. What is the address on the HECO Chain?
