@@ -1,20 +1,16 @@
-# Huobi ECO Chain – Heco
+# HECO Chain – Heco
 
-
-## Introduction to the Huobi Open Platform
-The Huobi Open Platform is a unified infrastructure platform based on the technical, traffic and ecological resources of the Huobi Group, and will be gradually open to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. In December 2020, the first product of the Huobi Open Platform, the Huobi ECO Chain, also known as Heco, officially launched its "Tinder" phase. In addition, Huobi Open Platform will launch DEX and other blockchain infrastructures based on Layer 2. The Huobi Open Platform will provide global developers with series of diverse innovative facilities and services.
-
-## Introduction to Huobi ECO Chain
-Huobi ECO Chain (Heco) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the Huobi Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+## Introduction to HECO Chain
+HECO Chain (Heco) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the Huobi Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
 
 ## Vision
-Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
+Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.![image](https://user-images.githubusercontent.com/61443845/138071597-bf2e87b6-84c7-4689-bb29-9b31ee6536c6.png)
 
 ## Heco’s Performance
-- TPS: 500+
+- TPS: 2000+
 - Average block interval: 3s
 
 ## Consensus Mechanism
@@ -98,8 +94,9 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 
 ## Current Stage of Heco
-In December 2020, the Huobi Eco chain, Heco officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
-Oracles, Voting tools, Anchor Coins, DEX, Lending, Fnancial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
+In December 2020, the HECO Chain, Heco officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
+Oracles, Voting tools, Anchor Coins, DEX, Lending, Financial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
+In October 2021,HECO has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
 
 ## Support Plan of Heco
 ### Financial Support
@@ -107,23 +104,37 @@ Oracles, Voting tools, Anchor Coins, DEX, Lending, Fnancial Management, Insuranc
 - Heco will launch a variety of developer activities and competitions to discover and fund potential developers. 
 - In order to reduce the cost of users on Heco Dapp, the Heco meta transaction function will reduce the gas fee of users holding HT in a step-wise manner.
 
-### Traffic Support
-Huobi Global will strongly support the development of Heco ecosystem:
-- Provide traffic entrance for high-quality Dapp on Heco.
-- After running successfully on Heco, high-quality projects can submit token listing application to Huobi Global, and can be listed on Huobi Global if they meet the listing standards.
-
 ### Resource Support
 - Projects or developers that have received investment and support from Heco have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
 - High-quality projects can participate in Heco global roadshows for free.
-- Huobi Group will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
+- ·	Huobi ventures HECO fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
+### Participate in Test Environment of Heco
+Official Website
+www.hecochain.com
+
+Public Testnet
+chainid 256
+
+PRC
+wss://ws-testnet.hecochain.com https://http-testnet.hecochain.com
+ 
+Blockchain Explorer
+https://scan-testnet.hecochain.com
+
+Test Coin Faucet
+https://scan-testnet.hecochain.com/faucet
+
+Technical Support Email
+DevContacts@hecochain.com
 
 ## Interact with Us on Social Media
-- Facebook：Huobi ECO Chain
-- Twitter：HuobiECOChain
-- Telegram： HuobiECOChain
-- Weibo：火币生态链Heco
-- Wechat Offical Account：Huobi ECO Heco
+Twitter: https://twitter.com/HECO_Chain
+Telegram Channel: https://t.me/HuobiecochainofficialMedium: https://medium.com/heco-chain
+GitHub: https://github.com/huobiGroup/
+HECO Explorer: https://hecoinfo.com
+Documentation: https://docs.hecochain.com/#/en-us/intro
+Website: https://www.hecochain.com/en-us/
 
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of Heco for free, and there is no charging scenario.
