@@ -1,4 +1,4 @@
-# HECO Chain – Heco
+# HECO Chain
 
 ## Introduction to HECO Chain
 HECO Chain (Heco) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the Huobi Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
