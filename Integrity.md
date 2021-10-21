@@ -1,11 +1,11 @@
-# 廉正合规
+# Integrity and Compliance
 
-火币集团在与客户、业务伙伴、股东等相关各方的业务关系中，致力遵循最高标准的商业行为规范。火币生态链Heco一直秉承公平、公正、公开的原则向全球开发者开放火币生态资源。任何扶持政策均有相应的评审标准，其中公开透明的链上数据是项目获得扶持的重要依据。
+Huobi Group is committed to the highest standards of business conduct in our relationships with each of our stakeholders, including customers, business partners, shareholders and other relevant parties, HECO Chain has always adhered to the principles of fairness, impartiality and openness in opening up resources to developers. Any support policy has corresponding evaluation criteria, of which open and transparent on-chain data is an important basis for projects to receive support.
 
-我们要求员工在与外部合作伙伴进行业务往来时体现诚信的价值观，绝不容忍任何不道德或不合法的行为。如果您有任何有关火币生态链Heco商业行为准则的问题；或者希望报告任何关于火币生态链Heco员工涉嫌作出不道德或不合法行为的可疑事件，欢迎您随时联系我们，举报邮箱：lianzheng@hecochain.com
+We mandate that our employees conduct all business with outside parties in a manner that reflects our value of integrity. We will not tolerate any form of unethical or unlawful conduct. Our stakeholders’ concerns are important to us and anyone is welcome to contact us at  report@hecochain.com to report any questionable or allegedly unethical or illegal behavior.
 
-我们建议任何人在提交投诉或问题时，留下包括姓名、联系方式、涉嫌不道德或不合法可疑行为事件细节等详细信息，以便我们在必要时直接和他／她联系。我们会谨慎处理所有咨询与举报，并在法律法规许可范围内竭尽全力确保咨询与举报的保密性。所有的调查将以合法合规为基础。
+Anyone submitting a complaint or question is encouraged to provide his or her name, contact information and appropriate details of the questionable or allegedly unethical or illegal behavior so that we may contact him or her directly, if necessary. We will handle all inquiries discreetly and make every effort to maintain, within the limits allowable by the applicable laws and regulations, the confidentiality of any inquiry or report. We will conduct all investigations in accordance with applicable laws and regulations.
 
-该举报邮箱属于高保密级别，直接向最高管理层单线汇报。对于有效举报火币集团将引起高度重视，并且保护举报人的隐私。针对涉及利益输送的价值举报，火币集团将给予举报人直接奖励，奖励上限为挽回损失金额的10%。
+This reporting email address is highly confidential and reports directly to the top management. For valid reports, Huobi Group will pay high attention to them and protect the privacy of the whistleblower. For those reports involving benefit transfer, Huobi Group will give direct rewards to the whistleblowers, and the reward limit is 10% of the recovered loss amount.
 
-我们同时对大家发出提醒：有关火币生态链Heco官方的一切合作、投资、扶持等信息，均会通过官网公告等渠道进行发布。请广大投资者保持警惕，勿听勿信有关虚假宣传。同时，火币将保留追究相关虚假宣传的权力。
+Attention：all information about cooperation, investment and support policy of HECO Chain will be released through the official website announcement and other official channels. Please stay vigilant and do not listen to or believe false propaganda. At the same time, HECO Chain will reserve the right to pursue related false propaganda.

@@ -1,25 +1,26 @@
-# 概况
-本文档描述了 heco bridge 资产跨链桥的工作原理。
+# Introduction
+This document introduce the basic info of heco bridge:
 
-合约地址：
+Contract Address：
 
 Ethereum： [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://etherscan.io/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
-HECO: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://scan.hecochain.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
+HECO: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://hecoinfo.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
-# 工作原理
-![bridge](images/bridge.png)
+# How it works
 
-# 申请 Token 跨链
+![bridge](../images/bridge.png)
 
-流程如下：
+# Application for token-peg
 
-1）提出申请
+The process is:：
 
-联系商务或者联系 <devcontacts@huobi.com>
+1）Submit application
 
-2）桥部署 Token 合约
+contact bd or <devcontacts@hecochain.com>
 
-3）测试
+2）Deploy token contract
 
-4）上线
+3）Testing
+
+4）Online

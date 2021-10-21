@@ -1,35 +1,37 @@
-# 共识
-`Heco`采用`HPoS`共识机制，具有交易成本低、交易延时低、交易并发高等特点，支持最多21个验证人节点；
+# Consensus
+`Heco` adopts `HPoS` consensus mechanism with low transaction cost, low transaction latency, high transaction concurrency, and supports up to 21 validators.
 
-HPoS是PoA和Pos的结合体。想要成为验证人，需要先提交提案，等待其他活跃的验证人进行投票，半数以上通过之后，则有资格成为验证人。任意地址均可对有资格成为验证人的地址进行质押，当验证人的质押量排名进入前21位之后，则会在下一个epoch成为活跃验证人。
+HPoS is a combination of PoA and Pos. To become a validator, you need to submit a proposal first and wait for other active validators to vote on it, after more than half of them pass, you will be eligible to become a validator. Any address can stake to an address that qualifies to become a validator, and after the validator's staking volume ranks in the top 21, it will become an active validator in the next epoch.
 
-所有的活跃验证人按照预定规则排序，轮流进行出块。如果有验证人在自己的出块轮次没能及时出块，则在过去n/2(n为活跃验证人的数量)个块内，没有参与过出块操作的活跃验证人，随机进行出块。最少n/2+1个活跃验证人正常工作，即可保证区块链的正常运行。
 
-正常产块时，区块的难度值为2，未按照预定顺序进行产块时，区块的难度值为1。当区块链发生分叉时，区块链按照累计最大难度选择对应分叉。
+All active verifiers are ordered according to predefined rules and take turns to pack out blocks. If a validator fails to pack out a block in time in its own round, the active validators who have not involved  in the past n/2 (n is the number of active validators) blocks will randomly perform the block-out. At least n/2+1 active validators work properly to ensure the proper operation of the blockchain.
 
-## 名词说明
-- 验证人，负责对链上交易进行打包出块；
-- 活跃验证人，即当前负责打包出块的一组验证人，上限为21个。
-- epoch。以区块为单位的时间间隔，目前`Heco`上 1epoch = 200block，每个epoch结束的时候，区块链会与系统合约交互，进行活跃验证人更新；
 
-## 系统合约
-[huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+The difficulty value of a block is 2 when the block is generated normally and 1 when the block is not generated in a predefined order. when a fork of the block chain occurs, the block chain selects the corresponding fork according to the cumulative maximum difficulty.
 
-目前验证人的管理，均由系统合约完成，目前的系统合约有：
-- Proposal  负责管理验证人的准入资格，管理验证人提案和投票；
-- Validators 负责对验证人进行排名管理、质押和解质押操作、分发区块奖励等；
-- Punish 负责对不正常工作的活跃验证人进行惩罚操作；
+## Glossary 
+- validator. Responsible for packaging out blocks for on-chain transactions.
+- active validator. The current set of validators responsible for packing out blocks, with a maximum of 21.
+- epoch. Time interval in blocks, currently 1epoch = 200block on `Heco`. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
 
-区块链调用系统合约：
-- 每个块结束的时候，会调用`Validators`合约，将区块中所有交易的手续费分发给active validator;
-- 发现validator没有正常工作的时候，会调用`Punish`合约，对validator进行惩罚；
-- 每个epoch结束的时候，会调用`Validators`合约，根据排名，更新active validator；
+## System contract
+[heco-contracts](https://github.com/stars-labs/heco-contracts)
 
-## 质押
-任何账户，都可以对validator进行任意数量的质押操作，每个validator的最小质押量是`32HT`。
-如果想取回已质押的HT，需要按照如下操作进行：
-1. 发送调用`Validators`合约，发送针对某一个validator的解质押(unstake)的声明交易;
-2. 等待`86400`个块之后，调用`Validators`合约，发送提取质押(withdrawStaking)的交易，将所有在此validator的质押取回；
+The management of the current validators are all done by the system contracts.
+- Proposal  Responsible for managing access to validators and managing validator proposals and votes.
+- Validators Responsible for ranking management of validators, staking and unstaking operations, distribution of block rewards, etc..
+- Punish Responsible for punishing operations against active validators who are not working properly.
 
-## 惩罚措施
-每当发现验证人没有按照预先设定进行出块的时候，就会在这个块结束时，自动调用`Punish`合约，对验证人进行计数。当计数达到24时，罚没验证人的所有收入。当计数达到48时，将验证人移除出活跃验证人列表，同时取消验证人资格。
+Blockchain call system contracts：
+- At the end of each block, the `Validators` contract is called and the fees for all transactions in the block are distributed to active validators.
+- The `Punish` contract is called to punish the validator  when the validator is  not  working properly.
+- At the end of each epoch, the `Validators` contract is called to update active validators, based on the ranking.
+
+## Staking
+For any account, any number of coins can be staked to the validator, and the minimum staking amount for each validator is `32HT`.
+If you want to unstake, you need to do the following:
+1. Send an unstaking transaction for a validator to the `Validators` contract;
+2. Waiting for `86400` blocks before sending a transaction to `Validators` contract to withdraw all staking coins on this validator;
+
+## Punishment
+Whenever a validator is found not to pack block as predefined, the `Punish` contract is automatically called at the end of this block and the validator is counted. When the count reaches 24, all income of the validator is punished. When the count reaches 48, the validator is removed from the list of active validators, and the validator is disqualified.

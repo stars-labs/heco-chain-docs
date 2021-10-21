@@ -1,17 +1,16 @@
-# DApp 治理
+# DApp Governance
 
 ## Snapshot
 
 https://snapshot.page/#/
 
-snapshot 是链下治理工具；
+dapp developer: create space with metamask, choose heco chain;
 
-开发者或者用户可以使用自己的metamask 钱包创建项目（space）创建时选择对应的链；
+user: create proposal in space; 
 
-用户在 space 内创建提案（proposal）；
+user: vote for the proposal
 
-用户可以对用钱包来对 proposal 进行vote；
 
-使用教程：
+ref:
 
 https://docs.snapshot.page/

@@ -1,27 +1,26 @@
-# 概况
+# Summary
 
-支持 metamask、huobi wallet app、huobi wallet 浏览器插件
+Heco support metamask、huobi wallet app、TokenPocket etc.
 
-> 注意：提现到钱包之前，请检查兼容性，已知 Ledger 暂未支持
+> NOTE: Check compitibility before using wallet, Ledger is not supported.
 
 # metamask
 
-下载地址：https://metamask.io/
+add custom network：
 
-添加自定义网络：
+## mainnet
 
-## 主网
+download url：https://metamask.io/
 
 ```
 chainid: 128
-rpc: https://http-mainnet-node.huobichain.com
+rpc: https://http-mainnet.hecochain.com
 scan: https://hecoinfo.com
 ```
 
-![metamask](./images/metamask2.png)
+![metamask](../images/metamask2_en.png)
 
-
-## 测试网
+## testnet
 
 ```
 chainid: 256
@@ -29,15 +28,11 @@ rpc: https://http-testnet.hecochain.com
 scan: https://testnet.hecoinfo.com
 ```
 
-
 # huobi wallet app
 
 https://www.huobiwallet.com/
 
-# huobi wallet extension
 
-> 待公布
-
-# Heco cointtype
+# cointtype for Heco
 
 https://github.com/satoshilabs/slips/blob/master/slip-0044.md

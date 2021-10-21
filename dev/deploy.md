@@ -1,10 +1,10 @@
-# 部署设置
+# Deployment
 
-给出了一组使用 systemd 进行服务管理的配置。
+introduce systemd management configs。
 
-## 硬件配置
+## Hardware
 
-### 最低
+### minimun
 
 ```
 8core
@@ -12,21 +12,21 @@
 ssd iops>5k
 ```
 
-### 推荐
+### recommended
 ```
 16core
 32g
 ssd iops>5k
 ```
 
-### 网络
+### network&port
 
 ```
-公网 ip
-开启 TCP/UDP 32668 端口；便于 p2p 发现和互联
+External IP Address
+Port TCP/UDP 32668
 ```
 
-## 链节点配置
+## chain node
 
 * config.toml
 
@@ -98,19 +98,18 @@ IdleTimeout = 120000000000
 
 ```
 
-默认使用了快照同步，如果需要使用 full，将下列配置：
-
+use snap sync in the config, if full needed, change this line
 ```
 SyncMode = "snap"
 ```
-修改为
+to
 ```
 SyncMode = "full"
 ```
 
-## 启动脚本
+## start bash
 
-> 启动参数完整帮助信息，可通过命令 `geth help` 或 `geth -h` 进行查阅。
+> To show full detail help info of all flags, type `geth help` or `geth -h`
 
 * run.sh
 
@@ -123,14 +122,14 @@ SyncMode = "full"
 --verbosity 3  >> /data/heco/logs/systemd_chain_console.out 2>&1
 ```
 
-如果需要启用archive 类型，需要加入：
+if you need to use it as archive node, add：
 
 ```
 --syncmode full \
 --gcmode archive \
 ```
 
-即：
+so：
 
 ```
 #!/usr/bin/env bash
@@ -142,17 +141,17 @@ SyncMode = "full"
 --verbosity 3  >> /data/heco/logs/systemd_chain_console.out 2>&1
 ```
 
-节点未指定网络标识时，默认连接heco主网；若需要连接heco测试网，需加入以下参数:
+If no any network flags were provided, the node will connect the heco-mainnet by default. If you want to connect to heco-testnet, add:
 
 ```
 --testnet
 ```
 
-## systemd配置
+## systemd config
 
 ```
 [Unit]
-Description=huobi smart chain service
+Description=heco chain service
 
 [Service]
 Type=simple

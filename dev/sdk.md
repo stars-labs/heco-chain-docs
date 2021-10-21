@@ -1,18 +1,19 @@
-# 链上交互
-`Heco` 兼容所有以太坊生态，支持所有以太坊的`RPC`接口和相关SDK。
+# On-chain interaction
+`Heco` is compatible with `Ethereum`'s ecosystem，support all `Ethereum`'s `RPC` API and DK。
 
 ## RPC
 [RPC Method List](https://eth.wiki/json-rpc/api)
 
-示例如下:
+Example:
 ```
  curl -s -H 'content-type:application/json' -d '{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":67}' http://localhost:8545
 ```
 
-## SDK使用
-可使用`web3j`或`web3js`等以太坊`SDK`进行开发。以`web3js`为例。
+## SDK
+Use `Ethereum` SDK library such as `web3j`,`web3js`, etc for development. 
 
-### 获取链上信息
+
+### Get chain info
 ```JavaScript
 const Web3 = require('web3')
 
@@ -24,7 +25,7 @@ async function getChainId() {
 }
 ```
 
-### 生成账户
+### Generate account
 ```JavaScript
 const Web3Accounts = require('web3-eth-accounts')
 
@@ -33,7 +34,7 @@ let account = new Web3Accounts().create()
 console.log(`account generated. address: ${account.address}, private key: ${account.privateKey}`)
 ```
 
-### 构造交易
+### Build transaction
 ```JavaScript
 const Web3 = require('web3')
 

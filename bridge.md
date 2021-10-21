@@ -1,63 +1,64 @@
-# 概况
+# Summary
 
-可通过资产跨链桥，将ETH、BTC、稳定币等资产映射到Heco，实现方式为在源链上锁定一定数量的资产后在Heco生成对应数量的Token。
+Users can map ETH, BTC, stable coins and other assets to Heco through the asset cross-chain bridge, which is achieved by locking a certain number of assets on the source chain and generating the corresponding number of Tokens in Heco.
 
-Heco鼓励社区开发者提供更多去中心化的跨链解决方案。
+Heco encourages community developers to provide more decentralized cross-chain solutions.
 
-本文档描述了项目方自行将 Token 从源链承兑到 Heco 的方案。
+This document describes the option for project parties to map Tokens from the source chain to Heco on their own.
 
-> [跨链桥请参考](./hecobridge.md)
+> [heco-brige ref here](./hecobridge.md)
 
-项目 **自行** 维护 Token 在包含 Heco 的多链上的总量平衡，对 Token 的公信力进行背书。
+The project owner **self** maintains the total balance of Token on the multi-chain including Heco, and endorses the credibility of Token.
 
-主要的流程包括：
+The main processes include：
 
 ```
-1）初始准备
-2）源链 -> Heco 链
-3）Heco 链->源链
+1）Initial Preparation
+2）Source Chain -> Heco Chain
+3）Heco Chain -> Source Chain
 ```
 
-## 名词说明
+## Glossary 
 
-源链：Token 所在的链（例如 Ethereum）
+Source Chain: The source chain where the Token is located (e.g. Ethereum)
 
-Src_Token：源链上的 Token，可能是一个合约，或者是原生 Token
+Src_Token: Token on the source chain, possibly a contract, or a native Token
 
-锁仓地址或合约：用于锁定 Token 的地址
+Locked address or contract: the address used to lock the Token
 
-Heco_Token：Heco 的链上的 Token
+Heco_Token: Token on Heco's chain
+## Initial Preparation
 
-## 初始准备
+1) Deploy the lock address or contract on the source chain `Src_Lock_Addr`
 
-1）源链上部署锁仓地址或者合约 Src_Lock_Addr
+2) Deploy Token on Heco: `Heco_Token`
 
-2）Heco 上部署 Token：Heco_Token
+3) Deploy a lock address or contract on Heco `Heco_Lock_Addr`
 
-3）Heco 上部署锁仓地址或者合约 Heco_Lock_Addr
+If you need multiple sign contracts, you can refer to [gnosis/MultiSigWallet](https://github.com/gnosis/MultiSigWallet).
 
-如果需要多签合约，可以参考[gnosis/MultiSigWallet](https://github.com/gnosis/MultiSigWallet)。
+If you need contracts with mint/burn, you can refer to [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/) contracts/token/ERC20).
 
-如果需要带有 mint/burn 的合约，可以参考[OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20)。
+Translated with www.DeepL.com/Translator (free version)
 
-> 为了维持公信力，项目需向社区公示以上信息，邀请社区共同监督。并且针对两个链上币的总量进行监控
+> In order to maintain credibility, the project needs to publicize the above information to the community and invite the community to supervise it. And to monitor the total amount of coins on both chains.
 
-## 源链->Heco 链
+## Source Chain->Heco Chain
 
-1）源链锁定 Src_Token
+1) Source chain locking `Src_Token`
 
-将一定量的 Src_Token 转到 Src_Lock_Addr 进行锁定
+Transfer a certain amount of `Src_Token` to `Src_Lock_Addr` for locking
 
-2）在 Heco 链上释放 Heco_Token
+2) Release `Heco_Token` on the Heco chain
 
-操作执行 mint 操作，赋予 Heco_Lock_Addr 对应量的 Heco_Token
+Execute mint operation to give `Heco_Lock_Addr` the corresponding amount of `Heco_Token`
 
-## Heco 链->源链
+## Heco chain->Source chain
 
-1）Heco 链锁定 Heco_Token
+1) Heco chain lock `Heco_Token`
 
-操作 Heco_Token，执行 burn 操作
+Execute burn operation, destroy `Heco_Token`
 
-2）在源链上释放出 Src_Token
+2) Release `Src_Token` on the source chain
 
-操作 Src_Lock_Addr，解锁对应量
+operation `Src_Lock_Addr` to unlock the corresponding volume

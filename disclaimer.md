@@ -1,21 +1,21 @@
-# 免责声明
+# Disclaimer
 
-尊敬的用户（以下称“您”）：
+Dear user (hereinafter referred as "you"):
 
-火币生态链Heco（以下简称“Heco”或“我们”）是一个去中心化公链，全球开发者都可以在Heco上部署应用，所有用户可以在Heco上可以读取、发送和交易。由于去中心化的特性，我们特向您提醒第三方DAPP风险如下：
+HECO Chain （Heco） (hereinafter referred to as "Heco" or "we") is a decentralized public chain. Developers around the world can deploy applications on Heco, and all users can read, send and trade on Heco. Due to the decentralized nature, we would like to remind you of the risks of third-party DAPPs as follows:
 
-1、无论您通过任何交易平台、钱包参与或使用Heco上的DAPP，均为您个人的自由选择行为，我们并不向您推荐使用；
+1. Whether you participate in or use the DAPP on Heco through any trading platform, wallet, it is your personal free choice and we do not recommend it to you;
 
-2、我们不对任何第三方DAPP负有审核责任，也不对其服务所涉及的技术及信息的有效性、准确性、正确性、可靠性、质量、稳定、完整和及时性作出任何承诺和保证；
+2. We are not responsible for the review of any third-party DAPP, nor do we make any promises or guarantees for the validity, accuracy, correctness, reliability, quality, stability, completeness and timeliness of the technology and information involved in its services;
 
-3、您自行承担使用第三方DAPP服务产生的全部责任；
+3. You bear all responsibilities arising from the use of third-party DAPP services;
 
-4、第三方DAPP服务等是否符合您所在管辖区的法律法规或相关政策要求，请您自行判断与评估，我们不提供任何评估意见，但请您务必严格遵守您所在管辖地的法律；
+4. Whether the third-party DAPP service meets the laws and regulations or relevant policy requirements of your jurisdiction, please make your own judgment and assessment. We do not provide any evaluation opinions, but please be sure to strictly abide by the laws of your jurisdiction;
 
-5、您因使用第三方DAPP而涉及的包括但不限于合法问题、合同责任问题、经济损失问题等，均由您与第三方DAPP自行解决，我们不对此承担责任；
+5. Your use of a third-party DAPP, including but not limited to legal issues, contractual liability issues, economic loss issues, etc., will be resolved by you and the third-party DAPP, and we are not responsible for this;
 
-6、Heco不会与任何第三方DAPP共享您的个人信息，除非获得您的明确同意。在获得您明确同意后而因第三方DAPP 获取您个人信息产生的一切法律责任、纠纷，仍由您自行承担并与第三方DAPP自行解决。
+6. Heco will not share your personal information with any third-party DAPP unless you have your explicit consent. After obtaining your explicit consent, all legal responsibilities and disputes arising from the third-party DAPP obtaining your personal information shall still be borne by you and resolved with the third-party DAPP;
 
-7、Heco无权向您提供任何第三方DAPP开发者的个人信息，除非获得对方的同一或相关部门的要求，我们会尽力协助但无法保证能有效及时获取对方信息。
+7. Heco has no right to provide you with any third-party DAPP developer's personal information, unless obtaining the other party's consent or the request of the relevant department, we will try our best to assist but cannot guarantee that we can effectively obtain the other party's information in a timely manner.
 
-最后，我们再次提醒您：我们不推荐、建议、引导您使用任何第三方DAPP服务。
+Finally, we remind you again: we do not recommend, suggest, or guide you to use any third-party DAPP services.

@@ -1,17 +1,16 @@
-# 元交易
-元交易功能本质上是实现手续费代付的操作。`Address1` 将要发送的交易交给`Address2`， `Address2` 将费用扣除相关的信息进行签名，放置在交易的`data`数据段内广播发送，区块链根据规则对交易进行处理。
+# Meta transaction
+A meta-transaction is essentially an operation that fulfils a fee payment in proxy. `Address1` gives the transaction to be sent to `Address2`. And `Address2` signs the information related to the fee deduction and places it in the `data` data segment of the transaction. The transaction is then broadcast and the blockchain processes the transaction according to the rules.
 
-![avatar](../images/metatx.jpg)
+![avatar](../images/en_metatx.jpg)
 
+# Java Demo 
 
-# Java 版本 Demo
+https://github.com/stars-labs/metatx-Java-demo
 
-https://github.com/HuobiGroup/metatx-Java-demo
-
-## 元交易构造
-- 获取原始的`rawTransaction`信息；
-- 解析原始交易信息，获取`nonce` `gasprice` `gaslimit` `from address` `to address` `value` `data`；
-- 将上述字段以及手续费折扣比例等信息，进行RLP编码，示例如下：
+## Build meta transaction
+- Obtain the original `rawTransaction` information.
+- Parse raw transaction to get fields like `nonce`, `gasprice`, `gaslimit`, `from address`, `to address`, `value`, `data`, etc.
+- Take the above fields, as well as the fee discount percentage and other fields, and encode them in RLP format as follows for example.
 ```Java
     List<RlpType> result = new ArrayList();
     result.add(RlpString.create(nonce));
@@ -29,61 +28,6 @@ https://github.com/HuobiGroup/metatx-Java-demo
     RlpList rlpList = new RlpList(result);
     this.rlpEncodeData = RlpEncoder.encode(rlpList);
 ```
-- 由手续费代付地址对上述数据进行签名；
-- 使用签名数据替换原始交易中的`data`信息，重新Encode为`rawTransaction`;
-- 广播交易信息到链上；
-
-## 官方元交易服务
-火币官方提供元交易服务，根据调用者的`HT`持仓量，进行手续费补贴。
-
-交易生效有效期是 1 天（28800 区块）；
-
-![avatar](../images/grade-cn.png)
-
-> 对单账户，每天最多补贴 5 笔
-
-
-### API
-
-```
-https://meta-mainnet.hecochain.com [主网]
-https://meta-testnet.hecochain.com [测试网]
-```
-
-- 计算补贴费率
-  
->  POST /meta/fee
- ```JSON
- {
-    "from": "0x0000000000000000000000000000000000000000", // from addr
-    "to": "0x0000000000000000000000000000000000000001", // to addr
-    "value": "1", // transfer value
-    "nonce": "0", //from nonce
-    "data": "0x0" // tx input data
-}
- ```
- Response
-```JSON
-{
-   "status": 1, // 0:failed, 1:success
-   "message": "success", //sucess or error
-   "data": 0 // fee rate
-}
-```
-
-- 签名并广播元交易
-
-> POST /meta/tx
-```JSON
-{
-    "raw": "0xdddd" // 签名好的交易的 hex raw data
-}
-```
-Response
-```JSON
-{
-   "status": 1, // 0:failed, 1:success
-   "message": "success", //sucess or error
-   "data": "0x0000000000" // hash
-}
-```
+- Sign the above data by the fee proxy address.
+- Replace the `data` filed in the original transaction with the signed data and re-encode it as `rawTransaction`.
+- Broadcast `rawTransaction` to blockchain；

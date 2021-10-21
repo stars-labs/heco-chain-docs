@@ -1,1 +1,1 @@
-# Huobi Eco Chain Versions
+# Heco Chain Versions

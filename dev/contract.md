@@ -1,80 +1,74 @@
-# 智能合约操作
-`Heco`使用`EVM`作为虚拟机，全面兼容以太坊合约开发。具体开发文档参见[Solidity](https://docs.soliditylang.org/en/v0.7.1/#)
+# Contract
+`Heco` use `EVM` for contract execution.See [Solidity](https://docs.soliditylang.org/en/v0.7.1/#) for detail.
 
+## Remix
 
-## 使用Remix部署合约
-[Remix](https://remix.ethereum.org)是在线的合约开发和部署工具。首先打开`Remix`页面
-
+[Remix IDE](https://remix.ethereum.org) is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Remix is used for the entire journey of contract development as well as being a playground for learning and teaching contract development.
 ![avatar](../images/remix1.jpg)
 
-左侧文件浏览器内，新建文件，比如`Example.sol`，在右侧编辑合约内容。
-
+Create new file in file explorer. Edit contract info at right side.
 ![avatar](../images/remix2.jpg)
 
-编译合约
-1. 点击左侧按钮，切换到编译界面；
-2. 选择对应的合约；
-3. 设置相关的编译选项；
-4. 点击编译按钮进行编译；
+Compile contract
+1. Click compiler button, switch UI
+2. Select contract you want to compile
+3. Set compile flags
+4. Clieck compile button
 
 ![avatar](../images/remix3.jpg)
 
-接下来要将编译后的合约部署到链上，这里需要借助浏览器钱包插件。以`MetaMask`为例。
-
-1. 设置网络信息，设置完成后保存。
+Deploy contract to blockchain via wallet such as `MetaMask`.
+1. Set network info in `Metamask`.
 
 ![avatar](../images/metamask2_en.png)
 
-2. 返回到`Remix`界面
-+ 切换环境
-+ 选择对应合约
-+ 点击部署按钮
+2. Back to `Remix`.
++ Swich environment
++ Select contract
++ click deploy button
 
 ![avatar](../images/remix4.jpg)
 
 通过`MetaMask`即可将合约部署上链了
 
 
-## 使用Truffle部署合约
-+ 安装 Node
+## Truffle
+Use truffle to compile and deploy contract.
++ Install Node.js
+See [Installing Node.js](https://nodejs.org/en/download/package-manager/) for detail.
 
-具体操作可查看[Installing Node.js](https://nodejs.org/en/download/package-manager/)
-
-+ 安装truffle
++ Install truffle
 ```
 npm install -g truffle
 ```
-安装完成后执行以下命令
-```
-truffle version
-```
-如果命令行显示，以下类似信息，则表示安装成功。
+Run `truffle version` after installation finished. If the command line displays a message like below, installation is successful.
+
 ```
 Truffle v5.1.36 (core: 5.1.36)
 Solidity v0.5.16 (solc-js)
 Node v10.22.1
 Web3.js v1.2.1
 ```
-+ 创建项目
++ Create project
 
-首先创建项目文件夹
+First,create folder for project.
 ```
 mkdir Example
 cd Example
 ```
 
-然后使用truffle初始化项目
+Then, init project via truffle
 ```
 truffle init
 ```
-初始化完成后，项目内会生成以下文件结构
+After initialization is complete, the following file structure is generated within the project.
 ```
-|-- contracts         //文件夹，用于放置合约文件
-|-- migrations        //文件夹，用于放置部署脚本
-|-- test              //文件夹，用于放置测试文件
-|-- truffle-config.js //此项目的 truffle 配置文件
+|-- contracts         //folder for contracts
+|-- migrations        //folder for deployment scripts
+|-- test              //folder for test scripts
+|-- truffle-config.js //truffle config file
 ```
-+ 配置Truffle信息
++ Config truffle info
 
 ```
 const HDWalletProvider = require('@truffle/hdwallet-provider');
@@ -116,17 +110,16 @@ module.exports = {
 };
 
 ```
-+ 编写合约
++ Create contract
+Put custom contracts into folder `contracts` and modify deployment script in folder `migrations`.
 
-将自定义的合约放置到`contracts`文件夹内，并修改`migrations`中的部署脚本
++ Deploy contract
 
-+ 部署合约
-
-运行部署命令
+Run the deployment command.
 ```
 truffle migrate --network testnet
 ```
-输出结果如下
+The output as below.
 ```
 2_example_migration.js
 ======================
@@ -157,5 +150,4 @@ Summary
 > Total deployments:   1
 > Final cost:          0.02112088 ETH
 ```
-至此，合约部署完成。
-
+Finally, the contract deployment is complete.

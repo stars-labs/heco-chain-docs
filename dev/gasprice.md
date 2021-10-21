@@ -1,6 +1,6 @@
-# 基于交易池的交易费建议机制
+# gasprice suggestion based on txpool
 
-结果分 3 挡：慢、中、快；
+3 levels: slow, medium, fast；
 
 ```
 curl https://tc.hecochain.com/price/prediction
