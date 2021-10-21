@@ -7,7 +7,7 @@ HECO Chain (Heco) is a decentralized, high-efficiency and energy-saving public c
 To help developers’ evolvement at every stage 
 
 ## Vision
-Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.![image](https://user-images.githubusercontent.com/61443845/138071597-bf2e87b6-84c7-4689-bb29-9b31ee6536c6.png)
+Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
 ## Heco’s Performance
 - TPS: 2000+
@@ -119,7 +119,7 @@ chainid 256
 PRC
 wss://ws-testnet.hecochain.com 
 https://http-testnet.hecochain.com
- 
+
 Blockchain Explorer
 https://scan-testnet.hecochain.com
 
@@ -130,13 +130,15 @@ Technical Support Email
 DevContacts@hecochain.com
 
 ## Interact with Us on Social Media
-Twitter: https://twitter.com/HECO_Chain
-Telegram Channel: https://t.me/Huobiecochainofficial
-Medium: https://medium.com/heco-chain
-GitHub: https://github.com/stars-labs/
-HECO Explorer: https://hecoinfo.com
-Documentation: https://docs.hecochain.com/
-Website: https://www.hecochain.com/en-us/
+
+- Twitter: https://twitter.com/HECO_Chain
+- Telegram Channel: https://t.me/Huobiecochainofficial
+- Medium: https://medium.com/heco-chain
+- GitHub: https://github.com/stars-labs/
+- HECO Explorer: https://hecoinfo.com
+- Documentation: https://docs.hecochain.com/
+- Website: https://www.hecochain.com/en-us/
+  
 
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of Heco for free, and there is no charging scenario.
