@@ -2,7 +2,7 @@
 - [Integrity and Compliance](Integrity.md)
 - [Wallet](wallet.md)
 - [Asset-Peg Bridge](hecobridge.md)
-- [Asset-Peg Mamual](bridge.md)
+- [Asset-Peg Manual](bridge.md)
 - [Consensus](consensus.md)
 - [Meta Transaction](dev/meta_tx.md)
 - [Genesis](genesis.md)
