@@ -1,6 +1,9 @@
 - [About Heco](intro.md)
 - [Integrity and Compliance](Integrity.md)
 - [Wallet](wallet.md)
+- Bridge
+    - [HECO-peg assets](bridge/hecopeg_assets.md)
+    - [User guide](bridge/user_guide.md)
 - [Asset-Peg Bridge](hecobridge.md)
 - [Asset-Peg Manual](bridge.md)
 - [Consensus](consensus.md)
