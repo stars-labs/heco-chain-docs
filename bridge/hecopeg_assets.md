@@ -1,1 +1,1 @@
-In preparation
+# Asset description
