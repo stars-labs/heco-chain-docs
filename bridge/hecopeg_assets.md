@@ -1,5 +1,5 @@
 # 跨鏈代幣說明
-代幣	   HRC20合约
+##代幣	   HRC20合约
 
 USDT	  0xa71edc38d189767582c38a3145b5873052c3e47a  單次最小跨鏈 43.75，單次最大跨鏈 135,000
 
@@ -20,7 +20,7 @@ SHIB	  0xdd86dd2dc0aca2a8f41a680fc1f88ec1b7fc9b09  單次最小跨鏈  7,127,963
 HBCH	 0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375   單次最小跨鏈 0.08，單次最大跨鏈 252
 
 
-代幣  ERC20合约
+##代幣  ERC20合约
 
 USDT 0xdac17f958d2ee523a2206206994597c13d831ec7
 
@@ -42,7 +42,7 @@ HBCH 0xaac679720204aaa68b6c5000aa87d789a3ca0aa5
 
 
 # Cross-chain token description
-Token HRC20 contract
+##Token HRC20 contract
 
 USDT 0xa71edc38d189767582c38a3145b5873052c3e47a Single minimum cross-chain 43.75, Single maximum cross-chain 135,000
 
@@ -62,7 +62,7 @@ SHIB 0xdd86dd2dc0aca2a8f41a680fc1f88ec1b7fc9b09 Single minimum cross-chain 7,127
 
 HBCH 0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375 Single minimum cross-chain 0.08, Single maximum cross-chain 252
 
-Token  ERC20 contract
+##Token  ERC20 contract
 
 USDT 0xdac17f958d2ee523a2206206994597c13d831ec7
 
