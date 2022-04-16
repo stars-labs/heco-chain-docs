@@ -12,7 +12,7 @@ wss://ws-testnet.hecochain.com
 
 ## explorer
 ```
-https://scan-testnet.hecochain.com
+https://testnet.hecoinfo.com/
 ```
 
 ## faucet
