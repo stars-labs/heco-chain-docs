@@ -1,5 +1,17 @@
 # The latest Announcement
 
+# Notice on the use of HECO RPC
+
+Recently, HECO received the feedback from some developers regarding the failure of RPC. We checked the issue and found the problem which derive from the third-party RPCs failure. Based on the situation, HECO recommends developer to switch to official RPC instead to avoid potential developing issue.The offical RPC sites are as follows:
+```
+https://http-mainnet.hecochain.com
+```
+
+See <https://docs.hecochain.com/#/mainnet> for detail.
+
+We apologize for the inconvenience caused to you.
+
+
 #  Lucky HECO Phase III Live Now! Win GameFi NFTs!
 
 Dear Valued Users,
