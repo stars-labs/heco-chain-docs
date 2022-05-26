@@ -1,5 +1,14 @@
 # The latest Announcement
 
+# Support for the Migration and Airdrop of LUNA
+
+Users who hold HECO-peg LUNA, please deposit LUNA back to Huobi Global's personal account `before May 27, 2022 00:00 (GMT+8)` for asset snapshot.
+
+There will be a migration and upgrade of LUNA when the block height reaches `7790000`, which is expected on May 27, 2022 00:00 (GMT+8).
+
+Huobi Global supports this migration and upgrade, which is expected to subsequently airdrop newly minted LUNA. A snapshot of user balances of LUNA in their Huobi Global accounts will be taken at block `7790000` for subsequent airdrops.
+
+
 # Notice on the use of HECO RPC
 
 Recently, HECO received the feedback from some developers regarding the failure of RPC. We checked the issue and found the problem which derive from the third-party RPCs failure. Based on the situation, HECO recommends developer to switch to official RPC instead to avoid potential developing issue.The offical RPC sites are as follows:
