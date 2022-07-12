@@ -1,5 +1,12 @@
 # The latest Announcement
 
+# Starsbridge will be ceased operation
+Dear friends,
+
+Based on the current usage of Starsbridge cross-chain bridge products, **it will be officially Ceased operation `at 14:00 on July 13, 2022 (UTC+8)`**. Please prepare accordingly in advance.
+
+Bset wishes.
+
 # Support for the Migration and Airdrop of LUNA
 
 Users who hold HECO-peg LUNA, please deposit LUNA back to Huobi Global's personal account `before May 27, 2022 00:00 (GMT+8)` for asset snapshot.
