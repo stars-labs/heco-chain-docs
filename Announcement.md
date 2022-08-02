@@ -1,5 +1,13 @@
 # The latest Announcement
 
+# New version of Hecoinfo.com is coming
+
+Dear users
+
+The new version of [Hecoinfo.com](https://hecoinfo.com/) will be available at `00:00 August 9, 2022 (UTC)`.This upgrade will not affect your access, please use it with confidence.
+
+Best wishes.
+
 # Starsbridge will be ceased operation
 Dear friends,
 
