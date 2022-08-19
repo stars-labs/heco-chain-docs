@@ -3,6 +3,7 @@
 # HECO testnet browser is coming soon
 
 Dear users：
+
 Due to the upgrade of the HECO browser, the testnet cannot be opened to the public. Sorry for the inconvenience caused to users and developers, but it will be launched before next Wednesday, please be patient.
 
 Best wishes
