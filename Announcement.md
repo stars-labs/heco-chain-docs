@@ -1,5 +1,15 @@
 # The latest Announcement
 
+# ETH Merger Plan: Reminder for ETH Holders on the HECO Chain
+Dear Users,
+ 
+According to the ETH Foundation, ETH will migrate from PoW (Proof-of-Work) to PoS (Proof-of-Stake) Consensus when the Total Terminal difficulty (TTD) value of 58750000000000000000000 is reached. The migration is expected to take place between September 10, 2022 and September 20, 2022. The “Paris” upgrade of the executional layer is estimated to take place at the https://etherscan.io/block/countdown/15540293 at 00:30 (UTC) on 15 September 2022.
+ 
+To ensure that your ETH holdings can receive a fork tokens airdrop, HECO Chain reminds you to transfer your ETH holdings from the HECO Chain to Ethereum Mainnet or deposite to major centralized trading exchanges before 16:00 (UTC) on September 9, 2022.
+ 
+HECOChain
+Sep 6, 2022
+
 # HECO testnet browser is coming soon
 
 Dear users：
