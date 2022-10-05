@@ -1,5 +1,14 @@
 # The latest Announcement
 
+# Upgrade of the HECO cross-chain bridge
+
+Dear Users,
+
+The HECO cross-chain bridge will be upgraded at `14:00 on October 5, 2022 (UTC)`. The upgrade is expected to be completed **within 48 hours**. In the meantime, the deposit and withdrawal of assets from the HECO chain to Huobi Global will be affected. We apologize for the inconvenience caused. 
+
+HECO Chain Team
+October 5, 2022
+
 # ETH Merger Plan: Reminder for ETH Holders on the HECO Chain
 Dear Users,
  
