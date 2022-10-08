@@ -1,5 +1,14 @@
 # The latest Announcement
 
+# The HECO cross-chain bridge program upgrade has been completed
+
+Dear  Users,
+
+The HECO cross-chain bridge program upgrade has been completed,Huobi Global will resume the deposit and withdrawal of HECO chain tokens.Thank you for your support of the HECO chain.
+
+ HECO Chain Team
+October 8, 2022
+
 # Upgrade of the HECO cross-chain bridge
 
 Dear Users,
