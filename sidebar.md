@@ -16,6 +16,7 @@
     - [Contract](dev/contract.md)
     - [Private Chain](dev/private_chain.md)
     - [Graph Node](dev/graphnode.md)
+    - [SubQuery](dev/subquery.md)
     - [Mainnet](mainnet.md)
     - [Testnet](testnet.md)
     - [DApp-Governance](dev/dapp-gov.md)
