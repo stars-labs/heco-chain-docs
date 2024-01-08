@@ -10,6 +10,7 @@ Other advantages include superior performance with multiple RPC endpoint configu
 - SubQuery Docs: [SubQuery Academy (Documentation)](https://academy.subquery.network/)
 - Intro Quick Start Guide: [1. Create a New Project](https://academy.subquery.network/quickstart/quickstart.html)
 - [Heco Quick Start Guide](https://academy.subquery.network/quickstart/quickstart_chains/heco.html)
+- For technical questions and support reach out to us start@subquery.network
 
 # Getting Started
 
